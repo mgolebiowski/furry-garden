@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "FurryGarden",
+    "subtitle": "Safe & Toxic Plants for Cats"
+  },
+  "ui": {
+    "search": "Search plants...",
+    "filter": {
+      "all": "All Plants",
+      "safe": "Safe for Cats",
+      "toxic": "Toxic to Cats"
+    },
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language"
+  },
+  "plant": {
+    "commonName": "Common Name",
+    "additionalNames": "Also Known As",
+    "latinName": "Latin Name",
+    "family": "Family",
+    "safe": "Safe for Cats",
+    "toxic": "Toxic to Cats",
+    "noResults": "No plants found matching your search."
+  }
+}
