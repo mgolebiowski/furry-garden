@@ -4,8 +4,8 @@ import Fuse from 'fuse.js';
 // Load CSV data as text (we'll use fetch since direct imports are causing issues)
 async function loadCSVData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   try {
-    const safeResponse = await fetch('/data/safe.csv');
-    const toxicResponse = await fetch('/data/toxic.csv');
+    const safeResponse = await fetch('/furry-garden/data/safe.csv');
+    const toxicResponse = await fetch('/furry-garden/data/toxic.csv');
     
     if (!safeResponse.ok || !toxicResponse.ok) {
       throw new Error('Failed to load CSV data');
