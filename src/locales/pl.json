@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "FurryGarden",
+    "title": "💐 💕 🐾",
     "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów"
   },
   "ui": {
@@ -19,8 +19,8 @@
     "additionalNames": "Inne Nazwy",
     "latinName": "Nazwa Łacińska",
     "family": "Rodzina",
-    "safe": "Bezpieczna dla Kotów",
-    "toxic": "Toksyczna dla Kotów",
+    "safe": "BEZPIECZNA",
+    "toxic": "TOKSYCZNA",
     "noResults": "Nie znaleziono roślin pasujących do wyszukiwania."
   }
 }

@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "FurryGarden",
+    "title": "💐 💕 🐾",
     "subtitle": "Safe & Toxic Plants for Cats"
   },
   "ui": {
@@ -19,8 +19,8 @@
     "additionalNames": "Also Known As",
     "latinName": "Latin Name",
     "family": "Family",
-    "safe": "Safe for Cats",
-    "toxic": "Toxic to Cats",
+    "safe": "SAFE",
+    "toxic": "TOXIC",
     "noResults": "No plants found matching your search."
   }
 }

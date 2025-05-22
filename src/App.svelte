@@ -63,9 +63,31 @@
   }
 
   // Handle filter changes
-  function handleFilterChange(event: CustomEvent<'all' | 'safe' | 'toxic'>) {
+  let handleFilterChange = (event: CustomEvent<'all' | 'safe' | 'toxic'>) => {
     activeFilter = event.detail;
-  }
+  };
+
+  // New: reference to the floating bar for keyboard adjustments
+  let floatingBar: HTMLDivElement;
+
+  // New: adjust floating bar bottom when mobile keyboard appears/disappears
+  onMount(() => {
+    if (typeof window !== 'undefined' && window.visualViewport) {
+      const updateBottom = () => {
+        // calculate bottom offset relative to visible viewport (keyboard and scroll)
+        const bottom = window.innerHeight - (window!.visualViewport!.height + window!.visualViewport!.offsetTop);
+        floatingBar.style.bottom = `${Math.max(bottom, 0)}px`;
+      };
+      // listen to viewport resize (keyboard) and scroll
+      window.visualViewport.addEventListener('resize', updateBottom);
+      window.visualViewport.addEventListener('scroll', updateBottom);
+      updateBottom();
+      return () => {
+        window!.visualViewport!.removeEventListener('resize', updateBottom);
+        window!.visualViewport!.removeEventListener('scroll', updateBottom);
+      };
+    }
+  });
 </script>
 
 <main class="min-h-screen w-full pb-24 md:pb-0">
@@ -112,7 +134,7 @@
   </div>
 
   <!-- Floating search and filter bar for mobile -->
-  <div class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 p-4 shadow-lg z-20 flex flex-col gap-3">
+  <div bind:this={floatingBar} class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 p-4 shadow-lg z-20 flex flex-col gap-3">
     <div class="flex-1">
       <SearchBar value={searchQuery} on:input={handleSearch} />
     </div>
