@@ -15,7 +15,7 @@
   <div class="p-4">
     <div class="flex items-center justify-between mb-2">
       <h3 class="text-xl font-bold text-gray-900 dark:text-white">
-        {#if $locale === 'pl' && plant.polishName}
+        {#if $locale === 'pl-PL' && plant.polishName}
           {plant.polishName}
         {:else}
           {plant.commonName}

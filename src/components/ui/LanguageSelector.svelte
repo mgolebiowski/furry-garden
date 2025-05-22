@@ -2,7 +2,7 @@
   import { locale, _ } from 'svelte-i18n';
   
   function toggleLanguage() {
-    $locale = $locale === 'en' ? 'pl' : 'en';
+    $locale = $locale === 'en' ? 'pl-PL' : 'en';
     localStorage.setItem('locale', $locale);
   }
 </script>
