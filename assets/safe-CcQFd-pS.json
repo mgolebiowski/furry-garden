@@ -1,0 +1,3929 @@
+[
+  {
+    "common_name": "Acorn Squash",
+    "additional_names": "Similar plants:pumpkin, zucchini",
+    "latin_name": "Cucurbita pepo",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia żołędziowa"
+  },
+  {
+    "common_name": "African Daisy",
+    "additional_names": "Barberton Daisy, Veldt Daisy, Transvaal Daisy, Gerber Daisy",
+    "latin_name": "Gerbera jamesonii",
+    "family": "Compositae",
+    "polish_name": "Gerbera Jamesona (Stokrotka afrykańska)"
+  },
+  {
+    "common_name": "African Violet",
+    "additional_names": "Cape Marigold",
+    "latin_name": "Saintpaulia spp.",
+    "family": "Gesneriaceae",
+    "polish_name": "Fiołek afrykański (Sępolia)"
+  },
+  {
+    "common_name": "Algaroba",
+    "additional_names": "Kiawe, Mesquite",
+    "latin_name": "Prosopis limensis",
+    "family": "Mimosaceae",
+    "polish_name": "Chrząstkowiec"
+  },
+  {
+    "common_name": "Aluminum Plant",
+    "additional_names": "Watermelon Plant",
+    "latin_name": "Pilea cadieri",
+    "family": "Urticaceae",
+    "polish_name": "Pilea Cadiera (Roślina aluminiowa)"
+  },
+  {
+    "common_name": "Alumroot",
+    "additional_names": "Coral Bells, Heuchera",
+    "latin_name": "Heuchera sanguinea",
+    "family": "Saxifragaceae",
+    "polish_name": "Żurawka krwista"
+  },
+  {
+    "common_name": "Alyssum",
+    "additional_names": "Alyssum varieties",
+    "latin_name": "Alyssum spp.",
+    "family": "Brassicaceae",
+    "polish_name": "Smagliczka"
+  },
+  {
+    "common_name": "American Rubber Plant",
+    "additional_names": "Pepper Face, Baby Rubber Plant",
+    "latin_name": "Peperomia obtusifolia",
+    "family": "Pipericeae",
+    "polish_name": "Peperomia tępolistna"
+  },
+  {
+    "common_name": "Amur Maple",
+    "additional_names": "Maple, Amur",
+    "latin_name": "Acer ginnala",
+    "family": "Sapindaceae",
+    "polish_name": "Klon ginnala (Klon amurski)"
+  },
+  {
+    "common_name": "Anthericum Comosum",
+    "additional_names": "Ribbon Plant, Spider Plant, Spider Ivy",
+    "latin_name": "Chlorophytum comosum",
+    "family": "Asparagaceae",
+    "polish_name": "Zielistka Sternberga"
+  },
+  {
+    "common_name": "Antirrhinum Multiflorum",
+    "additional_names": "Withered Snapdragon",
+    "latin_name": "Antirrhinum multiflorum",
+    "family": "Scrophulariaceae",
+    "polish_name": "Wyżlin wielokwiatowy"
+  },
+  {
+    "common_name": "Arabian Gentian",
+    "additional_names": "Persian Violet, German Violet",
+    "latin_name": "Exacum affine",
+    "family": "Gentianaceae",
+    "polish_name": "Egzakum pokrewne (Fiołek perski)"
+  },
+  {
+    "common_name": "Areca Palm",
+    "additional_names": "Golden Butterfly Palm, Cane Palm, Golden Feather Palm, Yellow Palm",
+    "latin_name": "Dypsis lutescens",
+    "family": "Palmae",
+    "polish_name": "Palma Areka (Złotowiec)"
+  },
+  {
+    "common_name": "Aregelia",
+    "additional_names": "Crimson cup, Marbled fingernail,Blushing bromeliad, Ossifragi Vase, Miniature Marble plant",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromeliaceae",
+    "polish_name": "Neoregelia"
+  },
+  {
+    "common_name": "Artillery Plant",
+    "additional_names": "",
+    "latin_name": "Pilea microphylla",
+    "family": "Urticaceae",
+    "polish_name": "Pilea drobnolistna (Roślina artyleryjska)"
+  },
+  {
+    "common_name": "Aspidium falcatum",
+    "additional_names": "Fern Holly, Japanese Holly, Fish Tail",
+    "latin_name": "Cyrtomium falcatum",
+    "family": "Polypodiaceae",
+    "polish_name": "Cyrtomium sierpowate (Paproć ostrokrzewu)"
+  },
+  {
+    "common_name": "Australian Pine",
+    "additional_names": "Norfolk Pine, House Pine, Norfolk Island Pine",
+    "latin_name": "Araucaria heterophylla",
+    "family": "Araucariaceae",
+    "polish_name": "Araukaria wyniosła (Sosna australijska)"
+  },
+  {
+    "common_name": "Autumn Olive",
+    "additional_names": "Silver Berry, Russian Olive",
+    "latin_name": "Eleagnus spp.",
+    "family": "Elaeagnaceae",
+    "polish_name": "Oliwnik"
+  },
+  {
+    "common_name": "Baby Rubber Plant",
+    "additional_names": "Pepper Face, American Rubber Plant",
+    "latin_name": "Peperomia obtusifolia",
+    "family": "Pipericeae",
+    "polish_name": "Peperomia tępolistna"
+  },
+  {
+    "common_name": "Baby’s Breath",
+    "additional_names": "Maidens Breath",
+    "latin_name": "Gypsophila elegans",
+    "family": "Caryophyllaceae",
+    "polish_name": "Gipsówka wytworna (Łyszczec)"
+  },
+  {
+    "common_name": "Baby’s Tears",
+    "additional_names": "Polka Dot Plant, Measles Plant, Flamingo Plant, Freckle Face, Pink Splash",
+    "latin_name": "Hypoestes phyllostachya",
+    "family": "Acanthaceae",
+    "polish_name": "Niedośpian kłosolistny (Łzy dziecka)"
+  },
+  {
+    "common_name": "Bachelors Buttons",
+    "additional_names": "Cornflower, Bluebottle",
+    "latin_name": "Centaurea cyanus",
+    "family": "Asteraceae",
+    "polish_name": "Chaber bławatek"
+  },
+  {
+    "common_name": "Ball Fern",
+    "additional_names": "Rabbit's Foot Fern, Squirrel Foot Fern, Deer Foot Fern, Hare Fern",
+    "latin_name": "Davallia spp.",
+    "family": "Polypodiaceae",
+    "polish_name": "Dawalia (Paproć zajęcza łapa)"
+  },
+  {
+    "common_name": "Bamboo",
+    "additional_names": "Golden Bamboo, Fishpole Bamboo",
+    "latin_name": "Phyllostachys aurea",
+    "family": "Gramineae",
+    "polish_name": "Bambus (Złoty bambus)"
+  },
+  {
+    "common_name": "Bamboo Palm",
+    "additional_names": "Miniature Fish Tail Dwarf Palm, Parlor Palm, Good Luck Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Palma bambusowa)"
+  },
+  {
+    "common_name": "Bamboo Vine",
+    "additional_names": "Blaspheme vine, Laurel-leaved Greenbrier",
+    "latin_name": "Smilax laurifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl wawrzynolistna"
+  },
+  {
+    "common_name": "Banana",
+    "additional_names": "Plantain",
+    "latin_name": "Musa acuminata",
+    "family": "Musaceae",
+    "polish_name": "Banan"
+  },
+  {
+    "common_name": "Banana Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbita maxima var. banana",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia bananowa"
+  },
+  {
+    "common_name": "Barberton Daisy",
+    "additional_names": "Transvaal Daisy, African Daisy, Veldt Daisy, Gerbera Daisy",
+    "latin_name": "Gerbera jamesonii",
+    "family": "Compositae",
+    "polish_name": "Gerbera Jamesona"
+  },
+  {
+    "common_name": "Barnaby's Thistle",
+    "additional_names": "Yellow Star Thistle",
+    "latin_name": "Centaurea solstitialis",
+    "family": "Compositae",
+    "polish_name": "Chaber żółty"
+  },
+  {
+    "common_name": "Basil",
+    "additional_names": "Saint Joseph's Wort, Thai Basil, Sweet Basil",
+    "latin_name": "Ocimum basilicum",
+    "family": "Lamiacea",
+    "polish_name": "Bazylia pospolita"
+  },
+  {
+    "common_name": "Beets",
+    "additional_names": "Beet Root, Red Beet, Swiss Chard, Roman Kale, Sugar Beet",
+    "latin_name": "Beta vulgaris",
+    "family": "Chenopodiaceae",
+    "polish_name": "Burak zwyczajny"
+  },
+  {
+    "common_name": "Begonia, Climbing",
+    "additional_names": "Rex Begonia",
+    "latin_name": "Cissus dicolor",
+    "family": "Vitaceae",
+    "polish_name": "Cissus dwubarwny (Begonia pnąca)"
+  },
+  {
+    "common_name": "Begonia, Trailing",
+    "additional_names": "Trailing Watermelon Begonia",
+    "latin_name": "Pellionia daveauana",
+    "family": "Urticaceae",
+    "polish_name": "Pellionia Daveau'a (Begonia zwisająca)"
+  },
+  {
+    "common_name": "Belmore Sentry Palm",
+    "additional_names": "Curly Palm",
+    "latin_name": "Howea belmoreana",
+    "family": "Palmae",
+    "polish_name": "Howea Belmore'a (Palma kędzierzawa)"
+  },
+  {
+    "common_name": "Big Shagbark Hickory",
+    "additional_names": "Big Shellbark Hickory, Shellbark Hickory, Shagbark Hickory",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy"
+  },
+  {
+    "common_name": "Big Shellbark Hickory",
+    "additional_names": "Shellbark Hickory",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy"
+  },
+  {
+    "common_name": "Bitter Pecan",
+    "additional_names": "Water Hickory",
+    "latin_name": "Carya aquatica",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik wodny (Pekan gorzki)"
+  },
+  {
+    "common_name": "Bitternut",
+    "additional_names": "",
+    "latin_name": "Carya cordiformis",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik sercowaty"
+  },
+  {
+    "common_name": "Black Haw",
+    "additional_names": "Wild Raisin, Tea Plant, Cowberry, Nannyberry, Sweet Viburnum, Nanny Plum, Sheepberry, Sweetberry",
+    "latin_name": "Viburnum lentago",
+    "family": "Caprifoliaceae",
+    "polish_name": "Kalina kanadyjska"
+  },
+  {
+    "common_name": "Black Hawthorn",
+    "additional_names": "Weisdornbluten, Blackthorn, Thorn Apple, Thorn Plum, Pirliteiro, Red Hawthorn, May Bush, Oxyacantha, Haw Apple, Black Haw, Aubepine",
+    "latin_name": "Crataegus douglasii",
+    "family": "Rosaceae",
+    "polish_name": "Głóg Douglasa"
+  },
+  {
+    "common_name": "Black Walnut",
+    "additional_names": "",
+    "latin_name": "Juglans nigra",
+    "family": "Juglandaceae",
+    "polish_name": "Orzech czarny"
+  },
+  {
+    "common_name": "Blackjack Pine",
+    "additional_names": "Ponderosa Pine, Western Yellow Pine, Yellow Pine, Bull Pine",
+    "latin_name": "Pinus ponderosa",
+    "family": "Pinaceae",
+    "polish_name": "Sosna żółta"
+  },
+  {
+    "common_name": "Blaspheme Vine",
+    "additional_names": "Blaspheme vine, Laurel-leaved Greenbrier, Bamboo Vine",
+    "latin_name": "Smilax laurifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl wawrzynolistna"
+  },
+  {
+    "common_name": "Bloodleaf",
+    "additional_names": "Chicken Gizzard, Yellow Bloodleaf, Joseph's Coat",
+    "latin_name": "Iresine herbstii",
+    "family": "Amaranthaceae",
+    "polish_name": "Iresine Herbsta (Krwawnica)"
+  },
+  {
+    "common_name": "Blooming Sally",
+    "additional_names": "Willow Herb, Great Willow Herb, Fire Weed",
+    "latin_name": "Epilobium angustifolium",
+    "family": "Onagraceae",
+    "polish_name": "Wierzbownica kiprzyca"
+  },
+  {
+    "common_name": "Blue Bead",
+    "additional_names": "Corn Lily",
+    "latin_name": "Clintonia borealis",
+    "family": "Liliaceae",
+    "polish_name": "Klintonia północna"
+  },
+  {
+    "common_name": "Blue Daisy",
+    "additional_names": "Felicia, Blue Marguerite",
+    "latin_name": "Felicia amelloides",
+    "family": "Compositae",
+    "polish_name": "Felicja amellusowa (Niebieska stokrotka)"
+  },
+  {
+    "common_name": "Blue Echeveria",
+    "additional_names": "Maroon Chenille Plant, Painted Lady, Copper Rose, Wax Rosette, Plush Plant",
+    "latin_name": "Echeveria glauca",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria sina"
+  },
+  {
+    "common_name": "Blue Eyed Daisy",
+    "additional_names": "Blue-eyed African Daisy",
+    "latin_name": "Arctotis stoechadifolia",
+    "family": "Compositae",
+    "polish_name": "Arktotis widłakowaty (Niebieskooka stokrotka)"
+  },
+  {
+    "common_name": "Blue-dicks",
+    "additional_names": "Wild Hyacinth",
+    "latin_name": "Dichelostemma pulchellum",
+    "family": "Amaryllidaceae",
+    "polish_name": "Dichelostemma piękna (Dzwoneczek preriowy)"
+  },
+  {
+    "common_name": "Blue-dicks 2",
+    "additional_names": "Wild Hyacinth",
+    "latin_name": "Hookera pulchella",
+    "family": "Amaryllidaceae",
+    "polish_name": "Hookera piękna"
+  },
+  {
+    "common_name": "Blue-dicks 3",
+    "additional_names": "Wild Hyacinth",
+    "latin_name": "Brodiaea pulchella",
+    "family": "Amaryllidaceae",
+    "polish_name": "Brodiaea piękna"
+  },
+  {
+    "common_name": "Blue-eyed African Daisy",
+    "additional_names": "Blue-eyed Daisy",
+    "latin_name": "Arctotis stoechadifolia",
+    "family": "Compositae",
+    "polish_name": "Arktotis widłakowaty"
+  },
+  {
+    "common_name": "Bluebottle",
+    "additional_names": "Cornflower, Bachelors Buttons",
+    "latin_name": "Centaurea cyanus",
+    "family": "Asteraceae",
+    "polish_name": "Chaber bławatek"
+  },
+  {
+    "common_name": "Blunt Leaf Peperomia",
+    "additional_names": "Pepper Face, Baby Rubber Plant, American Rubber Plant",
+    "latin_name": "Peperomia obtusifolia",
+    "family": "Pipericeae",
+    "polish_name": "Peperomia tępolistna"
+  },
+  {
+    "common_name": "Blushing Bromeliad",
+    "additional_names": "Crimson cup, Marbled fingernail, Blushing Bromeliad, Ossifragi Vase, Miniature Marble plant, Aregelia",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromiliaceae",
+    "polish_name": "Neoregelia (Rumieniąca się bromelia)"
+  },
+  {
+    "common_name": "Bold Sword Fern",
+    "additional_names": "",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć mieczowa)"
+  },
+  {
+    "common_name": "Boston Fern",
+    "additional_names": "",
+    "latin_name": "Nephrolepis exalta bostoniensis",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis wyniosły 'Bostoniensis' (Paproć bostońska)"
+  },
+  {
+    "common_name": "Bottle Palm",
+    "additional_names": "Elephant-foot Tree, Pony Tail Plant",
+    "latin_name": "Beaucarnea recurvata",
+    "family": "Agavaceae",
+    "polish_name": "Nolina wygięta (Palma butelkowa)"
+  },
+  {
+    "common_name": "Bottle Palm 2",
+    "additional_names": "Elephant-foot Tree, Pony Tail Plant",
+    "latin_name": "Nolina tuberculata",
+    "family": "Agavaceae",
+    "polish_name": "Nolina gujańska"
+  },
+  {
+    "common_name": "Bottlebrush",
+    "additional_names": "Weeping Bottlebrush, Prickly Bottlebrush, Crimson Bottlebrush",
+    "latin_name": "Callistemon species",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik"
+  },
+  {
+    "common_name": "Brazilian Orchid",
+    "additional_names": "",
+    "latin_name": "Sophronitis spp.",
+    "family": "Orchidaceae",
+    "polish_name": "Sfronitis (Orchidea brazylijska)"
+  },
+  {
+    "common_name": "Bride's Bonnet",
+    "additional_names": "Queencup",
+    "latin_name": "Clintonia uniflora",
+    "family": "Liliaceae",
+    "polish_name": "Klintonia jednokwiatowa (Czepek panny młodej)"
+  },
+  {
+    "common_name": "Bristly Greenbrier",
+    "additional_names": "Hagbrier, Hellfetter",
+    "latin_name": "Smilax hispida",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl szorstka"
+  },
+  {
+    "common_name": "Brodiaea Pulchella",
+    "additional_names": "Wild Hyacinth, Blue-dicks",
+    "latin_name": "Dichelostemma pulchellum",
+    "family": "Amaryllidaceae",
+    "polish_name": "Dichelostemma piękna"
+  },
+  {
+    "common_name": "Broom Hickory",
+    "additional_names": "Big Shellbark Hickory, Shellbark Hickory",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy"
+  },
+  {
+    "common_name": "Bullbrier",
+    "additional_names": "Catbrier, Horsebrier, Common Greenbrier",
+    "latin_name": "Smilax rotundifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl okrągłolistna"
+  },
+  {
+    "common_name": "Bur Gourd",
+    "additional_names": "Goareberry Gourd, Gooseberry Gourd, West Indian Gherkin",
+    "latin_name": "Cucumis anguria",
+    "family": "Cucurbitaceae",
+    "polish_name": "Ogórek antylski (Gurda kolczasta)"
+  },
+  {
+    "common_name": "Burro's Tail",
+    "additional_names": "Horse's Tail, Donkey's Tail, Lamb's Tail",
+    "latin_name": "Sedum morganianum",
+    "family": "Crassulaceae",
+    "polish_name": "Rozchodnik Morgana (Ogon osła)"
+  },
+  {
+    "common_name": "Buttercup Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbita maxima cv buttercup",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia piżmowa 'Buttercup'"
+  },
+  {
+    "common_name": "Butterfly Ginger",
+    "additional_names": "White Ginger, Cinnamon Jasmine, Garland Flower, Ginger Lily",
+    "latin_name": "Hedychium coronarium",
+    "family": "Zingiberaceae",
+    "polish_name": "Hedychium wieńcowe (Imbir motylkowy)"
+  },
+  {
+    "common_name": "Butternut Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbita maxima cv butternut",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia piżmowa"
+  },
+  {
+    "common_name": "Buzzy Lizzie",
+    "additional_names": "Giant Touch-Me-Not, Impatience Plant, Patient Lucy, Patient Plant, Tangerine Impatience",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Leniwa Lizzie)"
+  },
+  {
+    "common_name": "Caeroba",
+    "additional_names": "Rattle Snake Plant, Peacock Plant, Zebra Plant",
+    "latin_name": "Calathea insignis",
+    "family": "Marantaceae",
+    "polish_name": "Kalatea lancetolistna"
+  },
+  {
+    "common_name": "Calathea",
+    "additional_names": "",
+    "latin_name": "Calathea spp.",
+    "family": "Marantaceae",
+    "polish_name": "Kalatea"
+  },
+  {
+    "common_name": "Calathea Lancifolia 2",
+    "additional_names": "",
+    "latin_name": "Maranta insignis",
+    "family": "Marantaceae",
+    "polish_name": "Maranta wspaniała"
+  },
+  {
+    "common_name": "Calathea Lancifolia 3",
+    "additional_names": "",
+    "latin_name": "Calathea insignis",
+    "family": "Marantaceae",
+    "polish_name": "Kalatea wspaniała"
+  },
+  {
+    "common_name": "California Pitcher Plant",
+    "additional_names": "Cobra Orchid, Cobra Plant, Cobra Lily, Chrysamphora",
+    "latin_name": "Darlingtonia californica",
+    "family": "Sarraceniaceae",
+    "polish_name": "Darlingtonia kalifornijska (Dzbanecznik kalifornijski)"
+  },
+  {
+    "common_name": "Callistemon Brachyandrus",
+    "additional_names": "Weeping Bottlebrush, Prickly Bottlebrush, Crimson Bottlebrush, Bottlebrush, Callistemon brachyandrus",
+    "latin_name": "Callistemon species",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik"
+  },
+  {
+    "common_name": "Callistemon citrinus",
+    "additional_names": "Crimson Bottlebrush",
+    "latin_name": "Callistemon citrinus",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik cytrynowy"
+  },
+  {
+    "common_name": "Callistemon viminalis",
+    "additional_names": "Weeping Bottlebrush, Prickly Bottlebrush, Crimson Bottlebrush",
+    "latin_name": "Callistemon viminalis",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik wierzbowaty"
+  },
+  {
+    "common_name": "Calochortus nuttalli",
+    "additional_names": "Sego Lily, Star Tulip, Mariposa Lily, Cat Ear, Butterfly Tulip",
+    "latin_name": "Calochortus spp.",
+    "family": "Liliaceae",
+    "polish_name": "Kokoryczka Nuttalla"
+  },
+  {
+    "common_name": "Camellia",
+    "additional_names": "Common Camellia, Peony Camellia",
+    "latin_name": "Camellia japonica",
+    "family": "Theaceae",
+    "polish_name": "Kamelia japońska"
+  },
+  {
+    "common_name": "Canada Hemlock",
+    "additional_names": "",
+    "latin_name": "Tsuga canadensis",
+    "family": "Pinaceae",
+    "polish_name": "Choina kanadyjska"
+  },
+  {
+    "common_name": "Canary Date Palm",
+    "additional_names": "",
+    "latin_name": "Phoenix canariensis",
+    "family": "Palmae",
+    "polish_name": "Daklowiec kanaryjski (Palma kanaryjska)"
+  },
+  {
+    "common_name": "Candle Plant",
+    "additional_names": "",
+    "latin_name": "Plectranthus coleoides",
+    "family": "Lamiaceae",
+    "polish_name": "Plekrantus koleusowaty (Roślina świecowa)"
+  },
+  {
+    "common_name": "Candycorn Plant",
+    "additional_names": "",
+    "latin_name": "Hypocyrta nummularia",
+    "family": "Gesneriaceae",
+    "polish_name": "Hypocyrta nummularia (Roślina kukurydziana)"
+  },
+  {
+    "common_name": "Cane Palm",
+    "additional_names": "Golden Butterfly Palm, Areca Palm, Golden Feather Palm, Yellow Palm",
+    "latin_name": "Dypsis lutescens, chrysalidocarpus lutescens (alternate scientific name)",
+    "family": "Palmae",
+    "polish_name": "Palma trzcinowa (Złotowiec)"
+  },
+  {
+    "common_name": "Canna",
+    "additional_names": "Achira, Indian shot, African arrow root, edible canna, purple arrow root, sierra leone arrow root",
+    "latin_name": "Canna indica",
+    "family": "Cannaceae",
+    "polish_name": "Paciorecznik indyjski (Kanna)"
+  },
+  {
+    "common_name": "Canna Lily",
+    "additional_names": "Common Garden Canna",
+    "latin_name": "Canna generalis",
+    "family": "Cannaceae",
+    "polish_name": "Paciorecznik ogrodowy (Kanna)"
+  },
+  {
+    "common_name": "Canterbury-bell",
+    "additional_names": "",
+    "latin_name": "Gloxinia perennis",
+    "family": "Gesneriaceae",
+    "polish_name": "Gloxinia wieloletnia (Dzwonek Canterbury)"
+  },
+  {
+    "common_name": "Cape Marigold",
+    "additional_names": "African Daisy",
+    "latin_name": "Dimorphotheca pluvialis",
+    "family": "Compositae",
+    "polish_name": "Dimorfoteka deszczowa (Nagietek przylądkowy)"
+  },
+  {
+    "common_name": "Cape Primrose",
+    "additional_names": "Twisted Fruit, Bavarian Belle",
+    "latin_name": "Streptocarpus spp.",
+    "family": "Gesneriaceae",
+    "polish_name": "Skrętnik (Pierwiosnek przylądkowy)"
+  },
+  {
+    "common_name": "Carob",
+    "additional_names": "Sugar Pod, Locust Pods, Algaroba, Carob Tree Kharoub, Beans",
+    "latin_name": "Ceratonia siliqua",
+    "family": "Fabaceae",
+    "polish_name": "Szarańczyn strąkowy (Chleb świętojański)"
+  },
+  {
+    "common_name": "Caroba",
+    "additional_names": "Caaroba, Carob Tree, Carobhina, Bignonia",
+    "latin_name": "Jacaranda procera",
+    "family": "Bignoniaceae",
+    "polish_name": "Jakarauda wyniosła"
+  },
+  {
+    "common_name": "Carolina Hemlock",
+    "additional_names": "",
+    "latin_name": "Tsuga caroliniana",
+    "family": "Pinaceae",
+    "polish_name": "Choina karolińska"
+  },
+  {
+    "common_name": "Carrion Flower",
+    "additional_names": "Jacob's Ladder",
+    "latin_name": "Smilax herbacea",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl zielna (Kwiat padliny)"
+  },
+  {
+    "common_name": "Carrion Flower 2",
+    "additional_names": "Hairy Toad Plant",
+    "latin_name": "Stapelia hirsata",
+    "family": "Asclepiadaceae",
+    "polish_name": "Stapelia owłosiona (Kwiat padliny)"
+  },
+  {
+    "common_name": "Carrot Fern",
+    "additional_names": "",
+    "latin_name": "Onychium japonica",
+    "family": "Polypodiaceae",
+    "polish_name": "Onychium japońskie (Paproć marchewkowa)"
+  },
+  {
+    "common_name": "Carrot Flower",
+    "additional_names": "Garden Carrot",
+    "latin_name": "Daucus carota var. sativa",
+    "family": "Umbelliferae",
+    "polish_name": "Marchew zwyczajna (Kwiat marchwi)"
+  },
+  {
+    "common_name": "Casaba Melon",
+    "additional_names": "Honeydew Melon, True Cantaloupe, Muskmelon",
+    "latin_name": "Cucumis melo",
+    "family": "Cucurbitaceae",
+    "polish_name": "Melon kasaba"
+  },
+  {
+    "common_name": "Cast Iron Plant",
+    "additional_names": "Bar Room Plant, Iron Plant, Variegated Cast Iron Plant",
+    "latin_name": "Aspidistra elatior",
+    "family": "Liliaceae",
+    "polish_name": "Aspidistra wyniosła (Żelazna roślina)"
+  },
+  {
+    "common_name": "Cat Brier",
+    "additional_names": "China Root, Ti-hu-ling, Shiny Leaf Smilax",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Cat Ear",
+    "additional_names": "Sego Lily, Star Tulip, Mariposa Lily, Cat Ear, Butterfly Tulip, Calochortus",
+    "latin_name": "Calochortus spp.",
+    "family": "Liliaceae",
+    "polish_name": "Kocie uszko (Kokoryczka)"
+  },
+  {
+    "common_name": "Cattleya Labiata",
+    "additional_names": "Crimson Cattleya, Ruby-lipped Cattleya",
+    "latin_name": "Cattleya labiata",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja wargowa"
+  },
+  {
+    "common_name": "Celosia Globosa",
+    "additional_names": "Globe Amarantha, Perpetua",
+    "latin_name": "Celosia globosa",
+    "family": "Amaranthaceae",
+    "polish_name": "Celozja kulista (Amarantus kulisty)"
+  },
+  {
+    "common_name": "Celosia Plumosa",
+    "additional_names": "Cockscomb",
+    "latin_name": "Celosia plumosa",
+    "family": "Amaranthaceae",
+    "polish_name": "Celozja pierzasta (Grzebionatka)"
+  },
+  {
+    "common_name": "Celosia Spicata",
+    "additional_names": "Flamingo Feather",
+    "latin_name": "Celosia spicata",
+    "family": "Amaranthaceae",
+    "polish_name": "Celozja kłosowa (Pióro flaminga)"
+  },
+  {
+    "common_name": "Chamaedorea",
+    "additional_names": "Miniature Fish Tail Dwarf Palm, Parlor Palm, Good Luck Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora"
+  },
+  {
+    "common_name": "Chaparral",
+    "additional_names": "Creosote Bush, Greasewood",
+    "latin_name": "Larrea tridentata",
+    "family": "Zygophyllaceae",
+    "polish_name": "Larrea trójzębna (Chaparral)"
+  },
+  {
+    "common_name": "Chervil",
+    "additional_names": "Garden Chervil, French Parsley",
+    "latin_name": "Anthriscus cerefolium",
+    "family": "Apiaceae",
+    "polish_name": "Trybula ogrodowa"
+  },
+  {
+    "common_name": "Chestnut",
+    "additional_names": "American Chestnut",
+    "latin_name": "Castanea dentata",
+    "family": "Fagaceae",
+    "polish_name": "Kasztan jadalny"
+  },
+  {
+    "common_name": "Chicken-Gizzard",
+    "additional_names": "Joseph's Coat, Bloodleaf Plant",
+    "latin_name": "Iresine herbstii",
+    "family": "Amaranthaceae",
+    "polish_name": "Iresine Herbsta (Żołądek kurczaka)"
+  },
+  {
+    "common_name": "Chickens and Hens",
+    "additional_names": "Hens and Chickens, Mother Hens and Chicks",
+    "latin_name": "Echeveria elegans",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria wytworna (Kurki i kurczęta)"
+  },
+  {
+    "common_name": "Chin-lao-shu",
+    "additional_names": "China Root, Ti-hu-ling, Shiny Leaf Smilax, Catbrier",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "China Aster",
+    "additional_names": "Annual Aster, Aster Sinensis",
+    "latin_name": "Callistephus chinensis",
+    "family": "Compositae",
+    "polish_name": "Aster chiński"
+  },
+  {
+    "common_name": "China Root",
+    "additional_names": "Catbrier, Ti-hu-ling, Shiny Leaf Smilax",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka (Korzeń chiński)"
+  },
+  {
+    "common_name": "Chinese Plumbago",
+    "additional_names": "",
+    "latin_name": "Ceratostigma willmottianum",
+    "family": "Plumbaginaceae",
+    "polish_name": "Ceratostigma Willmotta (Ołownik chiński)"
+  },
+  {
+    "common_name": "Chlorophytum",
+    "additional_names": "Ribbon Plant, Spider Ivy, Spider Plant",
+    "latin_name": "Anthericum comosum",
+    "family": "Asparagaceae",
+    "polish_name": "Zielistka"
+  },
+  {
+    "common_name": "Chlorophytum bichetti",
+    "additional_names": "Saint Bernard's Lily",
+    "latin_name": "Chlorophytum bichetti",
+    "family": "Liliaceae",
+    "polish_name": "Zielistka Bichetta (Lilia św. Bernarda)"
+  },
+  {
+    "common_name": "Chocolate Soldier",
+    "additional_names": "Lace-Flower Vine, Episcia",
+    "latin_name": "Episcia dianthiflora",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia goździkokwiatowa (Czekoladowy żołnierz)"
+  },
+  {
+    "common_name": "Christmas Cactus",
+    "additional_names": "Easter Cactus",
+    "latin_name": "Schlumbergera bridgesii",
+    "family": "Cactaceae",
+    "polish_name": "Grudnik (Kaktus bożonarodzeniowy)"
+  },
+  {
+    "common_name": "Christmas Dagger",
+    "additional_names": "Christmas Dagger Fern",
+    "latin_name": "Polystichum acrostichoides",
+    "family": "Dryopteridaceae",
+    "polish_name": "Paprotnik bożonarodzeniowy"
+  },
+  {
+    "common_name": "Christmas Orchid",
+    "additional_names": "Winter Cattleya",
+    "latin_name": "Cattleya trianaei",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja Triany (Orchidea bożonarodzeniowa)"
+  },
+  {
+    "common_name": "Christmas Palm",
+    "additional_names": "Manila Palm",
+    "latin_name": "Adonidia merrillii",
+    "family": "Arecaceae",
+    "polish_name": "Adonidia Merilla (Palma bożonarodzeniowa)"
+  },
+  {
+    "common_name": "Cilantro",
+    "additional_names": "Coriander, Chinese Parsley, Dhania",
+    "latin_name": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "polish_name": "Kolendra siewna"
+  },
+  {
+    "common_name": "Cinnamon",
+    "additional_names": "",
+    "latin_name": "Cinnamomum zeylanicum",
+    "family": "Lauraceae",
+    "polish_name": "Cynamonowiec cejloński"
+  },
+  {
+    "common_name": "Cinquefoil",
+    "additional_names": "Silver Cinquefoil, Shrubby Cinquefoil, Rough Cinquefoil, Sulfur Cinquefoil, Rock Cinquefoil",
+    "latin_name": "Potentilla spp.",
+    "family": "Rosaceae",
+    "polish_name": "Pięciornik"
+  },
+  {
+    "common_name": "Cirrhopetalum",
+    "additional_names": "Old World Orchid",
+    "latin_name": "Bulbophyllum appendiculatum",
+    "family": "Orchidaceae",
+    "polish_name": "Bulbophyllum (Orchidea Starego Świata)"
+  },
+  {
+    "common_name": "Clearweed",
+    "additional_names": "Coolwort, Richweed",
+    "latin_name": "Pilea pumila",
+    "family": "Urticaceae",
+    "polish_name": "Pilea karłowata"
+  },
+  {
+    "common_name": "Cliff Brake",
+    "additional_names": "Button Fern, Green Cliff Brack, Cliff Break",
+    "latin_name": "Pellaea rotundifolia",
+    "family": "Pteridaceae",
+    "polish_name": "Pelea okrągłolistna (Paprotnik klifowy)"
+  },
+  {
+    "common_name": "Club Moss",
+    "additional_names": "Cushion Moss, Irish Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Mech klubowy)"
+  },
+  {
+    "common_name": "Cocks Comb",
+    "additional_names": "Pile Wort, Lady Bleeding, Red Cocks Comb",
+    "latin_name": "Amaranthus hypochondriacus",
+    "family": "Amaranthaceae",
+    "polish_name": "Szarłat zwisły (Grzebień koguci)"
+  },
+  {
+    "common_name": "Cocktail Orchid",
+    "additional_names": "",
+    "latin_name": "Cattleya forbesii",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja Forbesa (Orchidea koktajlowa)"
+  },
+  {
+    "common_name": "Collinia Elegans",
+    "additional_names": "Miniature Fish Tail Dwarf Palm, Parlor Palm, Good Luck Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna"
+  },
+  {
+    "common_name": "Common Camellia",
+    "additional_names": "Camellia, Peony Camellia",
+    "latin_name": "Camellia japonica; Thea japonica",
+    "family": "Theaceae",
+    "polish_name": "Kamelia japońska"
+  },
+  {
+    "common_name": "Common Catbrier",
+    "additional_names": "Catbrier, Horsebrier, Common Greenbrier",
+    "latin_name": "Smilax rotundifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl okrągłolistna"
+  },
+  {
+    "common_name": "Common Garden Canna",
+    "additional_names": "Common Garden Canna",
+    "latin_name": "Canna generalis",
+    "family": "Cannaceae",
+    "polish_name": "Paciorecznik ogrodowy (Kanna)"
+  },
+  {
+    "common_name": "Common Greenbrier",
+    "additional_names": "Catbrier, Horsebrier, Common Greenbrier",
+    "latin_name": "Smilax rotundifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl okrągłolistna"
+  },
+  {
+    "common_name": "Common Snapdragon",
+    "additional_names": "Garden Snapdragon",
+    "latin_name": "Antirrhinum majus",
+    "family": "Scrophulariaceae",
+    "polish_name": "Wyżlin większy (Lwia paszcza)"
+  },
+  {
+    "common_name": "Common Staghorn Fern",
+    "additional_names": "",
+    "latin_name": "Platycerium bifurcatum",
+    "family": "Polypodiaceae",
+    "polish_name": "Płaskla łosioroga (Paproć łosioroga)"
+  },
+  {
+    "common_name": "Confederate Jasmine",
+    "additional_names": "Star Jasmine",
+    "latin_name": "Trachelospermum jasminoides",
+    "family": "",
+    "polish_name": "Jaśmin konfederacki"
+  },
+  {
+    "common_name": "Coolwort",
+    "additional_names": "Clearweed, Richweed",
+    "latin_name": "Pilea pumila",
+    "family": "Urticaceae",
+    "polish_name": "Pilea karłowata"
+  },
+  {
+    "common_name": "Copper Rose",
+    "additional_names": "",
+    "latin_name": "Echeveria multicaulis",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria wielołodygowa (Miedziana róża)"
+  },
+  {
+    "common_name": "Coral Bells",
+    "additional_names": "Coral Bells, Heuchera",
+    "latin_name": "Heuchera sanguinea",
+    "family": "Saxifragaceae",
+    "polish_name": "Żurawka krwista (Dzwonki koralowe)"
+  },
+  {
+    "common_name": "Coreopsis",
+    "additional_names": "Tickseed",
+    "latin_name": "Coreopsis spp.",
+    "family": "Compositae",
+    "polish_name": "Nachyłek"
+  },
+  {
+    "common_name": "Cornflower",
+    "additional_names": "Bachelor's Buttons, Bluebottle",
+    "latin_name": "Centaurea cyanus",
+    "family": "Asteraceae",
+    "polish_name": "Chaber bławatek"
+  },
+  {
+    "common_name": "Crape Myrtle",
+    "additional_names": "Crepe Myrtle",
+    "latin_name": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "polish_name": "Lagerstremia indyjska (Mirt krepowy)"
+  },
+  {
+    "common_name": "Creeping Charlie",
+    "additional_names": "Swedish Ivy (Plectranthus)",
+    "latin_name": "Pilea nummulariifolia",
+    "family": "Lamiaceae",
+    "polish_name": "Bluszczyk kurdybanek (Płożący Karolek)"
+  },
+  {
+    "common_name": "Creeping Gloxinia",
+    "additional_names": "Maurandya",
+    "latin_name": "Asarina erubescens",
+    "family": "Scrophulariaceae",
+    "polish_name": "Asarina zarumieniona (Płożąca gloksynia)"
+  },
+  {
+    "common_name": "Creeping Mahonia",
+    "additional_names": "Tall Mahonia, Mountain Grape, Oregon Grape, Oregon Holly, Holly-leaved Barberry",
+    "latin_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "polish_name": "Mahonia pospolita (Płożąca mahonia)"
+  },
+  {
+    "common_name": "Creeping Pilea",
+    "additional_names": "Swedish Ivy (Plectranthus), Creeping Charlie",
+    "latin_name": "Pilea nummulariifolia",
+    "family": "Pilea: Uriticaeae; Plectranthus: Lamiaceae",
+    "polish_name": "Pilea nummulariifolia (Płożąca pilea)"
+  },
+  {
+    "common_name": "Creeping Rubus",
+    "additional_names": "Strawberryleaf Raspberry",
+    "latin_name": "Rubus pedatus",
+    "family": "Rosaceae",
+    "polish_name": "Malina płożąca"
+  },
+  {
+    "common_name": "Creeping Zinnia",
+    "additional_names": "",
+    "latin_name": "Sanvitalia spp.",
+    "family": "Asteraceae",
+    "polish_name": "Sanwitalia (Płożąca cynia)"
+  },
+  {
+    "common_name": "Crepe Myrtle",
+    "additional_names": "Crape Myrtle",
+    "latin_name": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "polish_name": "Lagerstremia indyjska (Mirt krepowy)"
+  },
+  {
+    "common_name": "Crimson Bottlebush",
+    "additional_names": "Weeping Bottlebrush, Prickly Bottlebrush, Bottlebrush",
+    "latin_name": "Callistemon species",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik szkarłatny"
+  },
+  {
+    "common_name": "Crimson Cup",
+    "additional_names": "Marbled fingernail,Blushing bromeliad, Ossifragi Vase, Miniature Marble plant, Aregelia",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromiliaceae",
+    "polish_name": "Neoregelia (Szkarłatny kielich)"
+  },
+  {
+    "common_name": "Crisped Feather Fern",
+    "additional_names": "Bold-Sword Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Kędzierzawa paproć piórkowa)"
+  },
+  {
+    "common_name": "Crossandra",
+    "additional_names": "",
+    "latin_name": "Crossandra species",
+    "family": "Acanthaceae",
+    "polish_name": "Krosandra"
+  },
+  {
+    "common_name": "Cucumber",
+    "additional_names": "Garden Cucumber",
+    "latin_name": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "polish_name": "Ogórek siewny"
+  },
+  {
+    "common_name": "Cushion Aloe",
+    "additional_names": "",
+    "latin_name": "Aloe retusa",
+    "family": "Aloaceae",
+    "polish_name": "Aloes przywarty (Aloes poduszkowy)"
+  },
+  {
+    "common_name": "Cushion Moss",
+    "additional_names": "Club Moss, Irish Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Mech poduszkowy)"
+  },
+  {
+    "common_name": "Cyrtudeira",
+    "additional_names": "Flame African Violet, Frosty, Flame, Moss agate, Lady Lou, Red African Violet, Acajou",
+    "latin_name": "Episcia reptans",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia płożąca"
+  },
+  {
+    "common_name": "Dainty Rabbits-Foot Fern",
+    "additional_names": "Lacy Paw, Lacy Hare's Foot",
+    "latin_name": "Davallia fejeensis",
+    "family": "Davalliaceae",
+    "polish_name": "Dawalia fiji (Delikatna paproć zajęcza łapa)"
+  },
+  {
+    "common_name": "Dallas Fern",
+    "additional_names": "Bold Sword Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć Dallas)"
+  },
+  {
+    "common_name": "Dancing Doll Orchid",
+    "additional_names": "",
+    "latin_name": "Oncidium flexuosum",
+    "family": "Orchidaceae",
+    "polish_name": "Oncidium giętkie (Tańcząca lalka)"
+  },
+  {
+    "common_name": "Desert Trumpet",
+    "additional_names": "",
+    "latin_name": "Eriogonium inflatum",
+    "family": "Polygonaceae",
+    "polish_name": "Eriogonum nadęte (Pustynna trąbka)"
+  },
+  {
+    "common_name": "Dichelostemma",
+    "additional_names": "Several varieties",
+    "latin_name": "Dichelostemma species",
+    "family": "Amaryllidaceae",
+    "polish_name": "Dichelostemma"
+  },
+  {
+    "common_name": "Dichorisandra Reginae",
+    "additional_names": "Queen's Spiderwort",
+    "latin_name": "Dichorisandra reginae",
+    "family": "Commelinaceae",
+    "polish_name": "Dichorisandra królewska (Pajęczynowiec królowej)"
+  },
+  {
+    "common_name": "Dill",
+    "additional_names": "",
+    "latin_name": "Anethum graveolena",
+    "family": "Apiaceae",
+    "polish_name": "Koper ogrodowy"
+  },
+  {
+    "common_name": "Dinteranthus",
+    "additional_names": "",
+    "latin_name": "Dinteranthus vanzylii",
+    "family": "Aizoaceae",
+    "polish_name": "Dinterantus van Zylii"
+  },
+  {
+    "common_name": "Duffii Fern",
+    "additional_names": "Duffy Fern, Lemon Button Fern",
+    "latin_name": "Nephrolepsis cordifolia 'duffii'",
+    "family": "Nephrolepidaceae",
+    "polish_name": "Nefrolepis sercolistny 'Duffii' (Paproć Duffa)"
+  },
+  {
+    "common_name": "Dwarf Date Palm",
+    "additional_names": "",
+    "latin_name": "Phoenix acaulis",
+    "family": "Palmae",
+    "polish_name": "Daklowiec niski (Karłowata palma daktylowa)"
+  },
+  {
+    "common_name": "Dwarf Feather Palm",
+    "additional_names": "",
+    "latin_name": "Nephrolepis exalta",
+    "family": "Nephrolepidaceae",
+    "polish_name": "Nefrolepis wyniosły (Karłowata palma piórkowa)"
+  },
+  {
+    "common_name": "Dwarf Palm",
+    "additional_names": "Good Luck palm, Parlor palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Karłowata palma)"
+  },
+  {
+    "common_name": "Dwarf Rose-Stripe Star",
+    "additional_names": "",
+    "latin_name": "Cryptanthus bivattus minor",
+    "family": "Bromelaceae",
+    "polish_name": "Kryptantus dwupaskowy mniejszy (Karłowata gwiazda różowopaskowana)"
+  },
+  {
+    "common_name": "Dwarf Royal Palm",
+    "additional_names": "",
+    "latin_name": "Veitchia merillii",
+    "family": "Arecaceae",
+    "polish_name": "Adonidia Merilla (Karłowata palma królewska)"
+  },
+  {
+    "common_name": "Dwarf Whitman Fern",
+    "additional_names": "",
+    "latin_name": "Nephrolepsis cordifolia plumosa",
+    "family": "Nephrolepidaceae",
+    "polish_name": "Nefrolepis sercolistny pierzasty (Karłowata paproć Whitmana)"
+  },
+  {
+    "common_name": "Earth Star",
+    "additional_names": "Starfish plant, Green earth star, Vary-leaf star",
+    "latin_name": "Cryptanthus bivattus minor",
+    "family": "Bromeliaceae",
+    "polish_name": "Kryptantus dwupaskowy mniejszy (Gwiazda ziemska)"
+  },
+  {
+    "common_name": "Easter Cattleya",
+    "additional_names": "Easter Orchid",
+    "latin_name": "Cattleya mossiae",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja Mossiae (Katleja wielkanocna)"
+  },
+  {
+    "common_name": "Easter Daisy",
+    "additional_names": "",
+    "latin_name": "Townsendia sericea",
+    "family": "Asteraceae",
+    "polish_name": "Townsendia jedwabista (Stokrotka wielkanocna)"
+  },
+  {
+    "common_name": "Easter Lily Cactus",
+    "additional_names": "",
+    "latin_name": "Echinopsis multiplex",
+    "family": "Cactaceae",
+    "polish_name": "Echinopsis multiplex (Kaktus lilii wielkanocnej)"
+  },
+  {
+    "common_name": "Easter Orchid",
+    "additional_names": "Easter Cattleya",
+    "latin_name": "Cattleya mossiae",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja Mossiae (Orchidea wielkanocna)"
+  },
+  {
+    "common_name": "Edible Banana",
+    "additional_names": "",
+    "latin_name": "Musa acuminata",
+    "family": "Musaceae",
+    "polish_name": "Banan jadalny"
+  },
+  {
+    "common_name": "Emerald Ripple Peperomia",
+    "additional_names": "Green ripple peperomia, Little fantasy peperpmia",
+    "latin_name": "Peperomia caperata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kędzierzawa (Szmaragdowa peperomia falista)"
+  },
+  {
+    "common_name": "English Hawthorn",
+    "additional_names": "Midland hawthorn, Smooth hawthorn",
+    "latin_name": "Crataegus laevigata",
+    "family": "Rosaceae",
+    "polish_name": "Głóg jednoszyjkowy (Głóg angielski)"
+  },
+  {
+    "common_name": "Episcia",
+    "additional_names": "Lace-Flower Vine, Chocolate Soldier",
+    "latin_name": "Episcia dianthiflora",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia"
+  },
+  {
+    "common_name": "Fairy Fountain",
+    "additional_names": "Feathered Amaranth, Woolflower",
+    "latin_name": "Celosia cristata",
+    "family": "Amaranthaeceae",
+    "polish_name": "Celozja grzebieniasta (Fontanna wróżek)"
+  },
+  {
+    "common_name": "False Aralia",
+    "additional_names": "",
+    "latin_name": "Dizygotheca elegantissima",
+    "family": "Araliaceae",
+    "polish_name": "Dizygoteka najwytworniejsza (Fałszywa aralia)"
+  },
+  {
+    "common_name": "Fan Tufted Palm",
+    "additional_names": "Lady Palm",
+    "latin_name": "Rhapis flabelliformis",
+    "family": "Araceae",
+    "polish_name": "Rapis wachlarzowaty (Palma wachlarzowa)"
+  },
+  {
+    "common_name": "Feather Palm",
+    "additional_names": "",
+    "latin_name": "Nephrolepis exaltata",
+    "family": "Nephrolepidaceae",
+    "polish_name": "Nefrolepis wyniosły (Palma piórkowa)"
+  },
+  {
+    "common_name": "Fennel",
+    "additional_names": "Florence Fennel, Finocchio",
+    "latin_name": "Foeniculum vulgare",
+    "family": "Umbelliferae",
+    "polish_name": "Koper włoski (Fenkuł)"
+  },
+  {
+    "common_name": "Fiery Reed Orchid",
+    "additional_names": "",
+    "latin_name": "Epidendrum ibaguense",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum Ibaguense (Ognista orchidea trzcinowa)"
+  },
+  {
+    "common_name": "Fig Leaf Gourd",
+    "additional_names": "Malabar Gourd",
+    "latin_name": "Cucurbita ficifolia",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia figolistna"
+  },
+  {
+    "common_name": "Figleaf Palm",
+    "additional_names": "Formosa rice tree, Glossy-leaved paper plant, Big-leaf paper plant",
+    "latin_name": "Fatsia japonica",
+    "family": "Araliaceae",
+    "polish_name": "Fatsja japońska (Palma figolistna)"
+  },
+  {
+    "common_name": "Fingernail Plant",
+    "additional_names": "",
+    "latin_name": "Neoregelia spectabilis",
+    "family": "Bromeliaceae",
+    "polish_name": "Neoregelia spectabilis (Roślina paznokciowa)"
+  },
+  {
+    "common_name": "Fire Weed",
+    "additional_names": "Blooming Sally, Great Willow-Herb",
+    "latin_name": "Epilobium angustifolium",
+    "family": "Onagraceae",
+    "polish_name": "Wierzbownica kiprzyca (Ogniste ziele)"
+  },
+  {
+    "common_name": "Fish Tail Fern",
+    "additional_names": "",
+    "latin_name": "Cyrtomium falcatum",
+    "family": "Polypodaceae",
+    "polish_name": "Cyrtomium sierpowate (Paproć rybi ogon)"
+  },
+  {
+    "common_name": "Flame African Violet",
+    "additional_names": "Flame violet, Red violet",
+    "latin_name": "Episcia reptans",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia płożąca (Płomienny fiołek afrykański)"
+  },
+  {
+    "common_name": "Flame of the Woods",
+    "additional_names": "Maui sunset",
+    "latin_name": "Ixora coccinea",
+    "family": "Rubiaceae",
+    "polish_name": "Iksora szkarłatna (Płomień lasu)"
+  },
+  {
+    "common_name": "Florida Butterfly Orchid",
+    "additional_names": "Scarlet Orchid",
+    "latin_name": "Epidendrum tampense",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum tampense (Florydzka orchidea motylkowa)"
+  },
+  {
+    "common_name": "Florida Butterfly Orchid",
+    "additional_names": "Butterfly orchid",
+    "latin_name": "Encyclia tampensis",
+    "family": "Orchidaceae",
+    "polish_name": "Encyclia tampensis (Florydzka orchidea motylkowa)"
+  },
+  {
+    "common_name": "Fluffy Ruffles",
+    "additional_names": "",
+    "latin_name": "Nephrolepsis exalta",
+    "family": "",
+    "polish_name": "Nefrolepis wyniosły 'Fluffy Ruffles' (Puszyste falbanki)"
+  },
+  {
+    "common_name": "Forster Sentry Palm",
+    "additional_names": "Kentia palm",
+    "latin_name": "Howea forsteriana",
+    "family": "Palmea",
+    "polish_name": "Howea Forstera (Palma Forstera)"
+  },
+  {
+    "common_name": "Fortunes Palm",
+    "additional_names": "Chusan palm",
+    "latin_name": "Trachycarpus fortunei",
+    "family": "Palmae",
+    "polish_name": "Szorstkowiec Fortunego (Palma Fortunego)"
+  },
+  {
+    "common_name": "Freckle Face",
+    "additional_names": "Polka Dot Plant, Measles Plant, Flamingo Plant, Baby’s Tears",
+    "latin_name": "Hypoestes phyllostachya",
+    "family": "Acanthaceae",
+    "polish_name": "Niedośpian kłosolistny (Piegowata twarz)"
+  },
+  {
+    "common_name": "Friendship Plant",
+    "additional_names": "",
+    "latin_name": "Pilea involucrata",
+    "family": "Pilaceae",
+    "polish_name": "Pilea involucrata (Roślina przyjaźni)"
+  },
+  {
+    "common_name": "Garden Marigold",
+    "additional_names": "Marigold, Mary Bud, Gold bloom, Pot marigold",
+    "latin_name": "Calendula officinalis",
+    "family": "Compositae",
+    "polish_name": "Nagietek lekarski"
+  },
+  {
+    "common_name": "Garden Snapdragon",
+    "additional_names": "",
+    "latin_name": "Antirrhinum majus",
+    "family": "Scrophulariaceae",
+    "polish_name": "Wyżlin większy (Lwia paszcza ogrodowa)"
+  },
+  {
+    "common_name": "Gerber Daisy",
+    "additional_names": "Transvaal Daisy, African Daisy, Veldt Daisy, Gerbera Daisy, Barberton Daisy",
+    "latin_name": "Gerbera jamesonii",
+    "family": "Compositae",
+    "polish_name": "Gerbera Jamesona"
+  },
+  {
+    "common_name": "German Violet",
+    "additional_names": "Arabian gentian, Persian violet",
+    "latin_name": "Exacum affine",
+    "family": "Gentianaceae",
+    "polish_name": "Egzakum pokrewne (Fiołek niemiecki)"
+  },
+  {
+    "common_name": "Gherkins",
+    "additional_names": "Immature cucumbers",
+    "latin_name": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "polish_name": "Korniszony (Ogórki konserwowe)"
+  },
+  {
+    "common_name": "Ghost Leafless Orchid",
+    "additional_names": "Leafless ghost orchid",
+    "latin_name": "Polyrrhiza lindenii",
+    "family": "Orchidaceae",
+    "polish_name": "Polyrrhiza Lindenii (Bezlistna orchidea duch)"
+  },
+  {
+    "common_name": "Ghost Plant",
+    "additional_names": "Mother of Pearl",
+    "latin_name": "Sedum weinbergii",
+    "family": "Crassulaceae",
+    "polish_name": "Rozchodnik Weinberga (Roślina duch)"
+  },
+  {
+    "common_name": "Giant Aster",
+    "additional_names": "",
+    "latin_name": "Townsendia sericea",
+    "family": "Asteraceae",
+    "polish_name": "Townsendia jedwabista (Wielki aster)"
+  },
+  {
+    "common_name": "Giant Holly Fern",
+    "additional_names": "Sword fern, Wester sword, imbricate sword fern",
+    "latin_name": "Ploystichum munitum",
+    "family": "Polypodaceae",
+    "polish_name": "Paprotnik kolczasty (Wielka paproć ostrokrzewu)"
+  },
+  {
+    "common_name": "Giant Touch-Me-Not",
+    "additional_names": "Buzzy Lizzie, Impatience Plant, Patient Lucy, Patient Plant, Tangerine Impatience",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Wielki niedotykajmnie)"
+  },
+  {
+    "common_name": "Giant White Inch Plant",
+    "additional_names": "",
+    "latin_name": "Albiflora spp.",
+    "family": "Commelinaceae",
+    "polish_name": "Trzykrotka albiflora (Wielka biała roślina calowa)"
+  },
+  {
+    "common_name": "Globe Thistle",
+    "additional_names": "",
+    "latin_name": "Echinops spp.",
+    "family": "Asteraceae",
+    "polish_name": "Przegorzan"
+  },
+  {
+    "common_name": "Gloxinia",
+    "additional_names": "",
+    "latin_name": "Sinningia speciosa",
+    "family": "Gesneriaceae",
+    "polish_name": "Syningia okazała (Gloksynia)"
+  },
+  {
+    "common_name": "Gold Bloom",
+    "additional_names": "Marigold, Mary Bud, Garden Marigold, Pot Marigold",
+    "latin_name": "Calendula officinalis",
+    "family": "Compositae",
+    "polish_name": "Nagietek lekarski (Złoty kwiat)"
+  },
+  {
+    "common_name": "Gold-Fish Plant",
+    "additional_names": "Candy Corn Plant",
+    "latin_name": "Hypocyrta nummularia",
+    "family": "Gesneriaceae",
+    "polish_name": "Hypocyrta nummularia (Złota rybka)"
+  },
+  {
+    "common_name": "Golden Bells",
+    "additional_names": "Forsythia",
+    "latin_name": "Oleaceae",
+    "family": "",
+    "polish_name": "Forsycja (Złote dzwonki)"
+  },
+  {
+    "common_name": "Golden Butterfly Palm",
+    "additional_names": "Areca Palm, Cane Palm, Golden Feather Palm, Yellow Palm",
+    "latin_name": "Dypsis lutescens",
+    "family": "Palmae",
+    "polish_name": "Palma Areka (Złotowiec)"
+  },
+  {
+    "common_name": "Golden Lace Orchid",
+    "additional_names": "Jewel Orchid",
+    "latin_name": "Haemaria discolor",
+    "family": "Orchidaceae",
+    "polish_name": "Hemaria dwubarwna (Złota koronkowa orchidea)"
+  },
+  {
+    "common_name": "Golden Shower Orchid",
+    "additional_names": "",
+    "latin_name": "Oncidium sphacelatum",
+    "family": "Orchidaceae",
+    "polish_name": "Oncidium sphacelatum (Orchidea złotego deszczu)"
+  },
+  {
+    "common_name": "Good Luck Palm",
+    "additional_names": "Dwarf Palm, Parlor Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Palma szczęścia)"
+  },
+  {
+    "common_name": "Grape Hyacinth",
+    "additional_names": "",
+    "latin_name": "Muscari armeniacum",
+    "family": "Liliaceae",
+    "polish_name": "Szafirek armeński (Winogronowy hiacynt)"
+  },
+  {
+    "common_name": "Grape Ivy",
+    "additional_names": "Venezuela treebine",
+    "latin_name": "Cissus rhombifolia",
+    "family": "Vitaceae",
+    "polish_name": "Cissus rombolistny (Winobluszcz)"
+  },
+  {
+    "common_name": "Great Willow Herb",
+    "additional_names": "Blooming Sally, Fire Weed",
+    "latin_name": "Epilobium angustifolium",
+    "family": "Onagraceae",
+    "polish_name": "Wierzbownica kiprzyca"
+  },
+  {
+    "common_name": "Green Ripple Peperomia",
+    "additional_names": "Emerald Ripple Peperomia, Little Fantasy Peperpmia",
+    "latin_name": "Peperomia caperata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kędzierzawa (Zielona peperomia falista)"
+  },
+  {
+    "common_name": "Greenbrier",
+    "additional_names": "China Root, Ti-hu-ling, Shiny Leaf Smilax, cat brier",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Hagbrier",
+    "additional_names": "Hellfetter",
+    "latin_name": "Smilax hispida",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl szorstka"
+  },
+  {
+    "common_name": "Hardy Baby Tears",
+    "additional_names": "Stonecrop",
+    "latin_name": "Sedum album",
+    "family": "Crassulaceae",
+    "polish_name": "Rozchodnik biały (Wytrzymałe łzy dziecka)"
+  },
+  {
+    "common_name": "Hardy Gloxinia",
+    "additional_names": "",
+    "latin_name": "Incarvillea delavayi",
+    "family": "Bignoniaceae",
+    "polish_name": "Inkarwilla Delavaya (Wytrzymała gloksynia)"
+  },
+  {
+    "common_name": "Hare Fern",
+    "additional_names": "Rabbit's Foot Fern, Squirrel Foot Fern, Deer Foot Fern, Ball Fern",
+    "latin_name": "Davallia spp.",
+    "family": "Polypodiaceae",
+    "polish_name": "Dawalia (Paproć zajęcza)"
+  },
+  {
+    "common_name": "Haworthia",
+    "additional_names": "Many cultivars",
+    "latin_name": "Haworthia species",
+    "family": "Liliaceae",
+    "polish_name": "Haworsja"
+  },
+  {
+    "common_name": "Haws",
+    "additional_names": "Pirliteiro",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg (Owoc głogu)"
+  },
+  {
+    "common_name": "Haws Apple",
+    "additional_names": "Haws, Hawthorn",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg (Jabłko głogowe)"
+  },
+  {
+    "common_name": "Hawthorn",
+    "additional_names": "Haws, Haws Apple",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg"
+  },
+  {
+    "common_name": "Hedgehog Gourd",
+    "additional_names": "Teasel Gourd",
+    "latin_name": "Cucumis dipsaceus",
+    "family": "Cucurbitaceae",
+    "polish_name": "Ogórek jeżowy"
+  },
+  {
+    "common_name": "Hellfetter",
+    "additional_names": "Hellfetter",
+    "latin_name": "Smilax hispida",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl szorstka"
+  },
+  {
+    "common_name": "Hemlock Tree",
+    "additional_names": "Many varieties",
+    "latin_name": "Tsuga species",
+    "family": "Pinaceae",
+    "polish_name": "Choina"
+  },
+  {
+    "common_name": "Hen and Chickens Fern",
+    "additional_names": "King and queen fern, Spleenwort, Parsley fern",
+    "latin_name": "Asplenium bulbiferum",
+    "family": "Polypodaceae",
+    "polish_name": "Zanokcica bulwkowata (Paproć kura i kurczęta)"
+  },
+  {
+    "common_name": "Hens and Chickens",
+    "additional_names": "Chickens and Hens, Mother Hens and Chicks",
+    "latin_name": "Echeveria elegans",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria wytworna (Kurki i kurczęta)"
+  },
+  {
+    "common_name": "Hibiscus",
+    "additional_names": "Rose of Sharon, Rose of China",
+    "latin_name": "Hibiscus syriacus",
+    "family": "Malvaceae",
+    "polish_name": "Ketmia syryjska (Hibiskus)"
+  },
+  {
+    "common_name": "Hindu Rope Plant",
+    "additional_names": "",
+    "latin_name": "Hoya carnosa 'krinkle kurl'",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja różowa 'Krinkle Kurl' (Hinduska roślina sznurowa)"
+  },
+  {
+    "common_name": "Hoary Alyssum",
+    "additional_names": "",
+    "latin_name": "Berteroa incana",
+    "family": "Brassicaceae",
+    "polish_name": "Pyleniec pospolity (Siwa smagliczka)"
+  },
+  {
+    "common_name": "Holligold",
+    "additional_names": "Marigold, Mary Bud, Gold Bloom, Pot Marigold, Garden Marigold",
+    "latin_name": "Calendula officinalis",
+    "family": "Compositae",
+    "polish_name": "Nagietek lekarski"
+  },
+  {
+    "common_name": "Holly Fern",
+    "additional_names": "Fishtail Fern",
+    "latin_name": "Cyrtomium falcatum",
+    "family": "Polypodaceae",
+    "polish_name": "Cyrtomium sierpowate (Paproć ostrokrzewu)"
+  },
+  {
+    "common_name": "Hollyhock",
+    "additional_names": "",
+    "latin_name": "Alcea rosea",
+    "family": "Malvaceae",
+    "polish_name": "Malwa różowa (Prawoślaz)"
+  },
+  {
+    "common_name": "Honey Locust",
+    "additional_names": "",
+    "latin_name": "Gleditsia triacanthos",
+    "family": "Fabaceae",
+    "polish_name": "Glediczja trójcierniowa (Miodokrzew)"
+  },
+  {
+    "common_name": "Honey Plant",
+    "additional_names": "Wax Plant",
+    "latin_name": "Hoya carnosa",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja różowa (Miodowa roślina)"
+  },
+  {
+    "common_name": "Honeydew Melon",
+    "additional_names": "Casaba Melon",
+    "latin_name": "Cucumis melo",
+    "family": "Cucurbitaceae",
+    "polish_name": "Melon spadziowy"
+  },
+  {
+    "common_name": "Honeysuckle Fuchsia",
+    "additional_names": "",
+    "latin_name": "Fuchsia triphylla",
+    "family": "Onagraceae",
+    "polish_name": "Fuksja trójlistna (Fuksja wiciokrzewu)"
+  },
+  {
+    "common_name": "Hookera pulchella",
+    "additional_names": "Wild Hyacinth, Blue-Dicks",
+    "latin_name": "Dichelostemma pulchellum",
+    "family": "Amaryllidaceae",
+    "polish_name": "Hookera piękna"
+  },
+  {
+    "common_name": "Hubbard Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbita maxima var. hubbard",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia olbrzymia 'Hubbard'"
+  },
+  {
+    "common_name": "Hypocyrta",
+    "additional_names": "Candy Corn Plant, Goldfish Plant",
+    "latin_name": "Hypocyrta nummularia",
+    "family": "Gesneriaceae",
+    "polish_name": "Hypocyrta"
+  },
+  {
+    "common_name": "Ice Plant",
+    "additional_names": "",
+    "latin_name": "Lampranthus piquet",
+    "family": "Aizoaceae",
+    "polish_name": "Przypołudnik (Roślina lodowa)"
+  },
+  {
+    "common_name": "Impatience Plant",
+    "additional_names": "Giant Touch-Me-Not, Buzzy Lizzy, Patient Lucy, Patient Plant, Tangerine Impatience",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Roślina niecierpliwa)"
+  },
+  {
+    "common_name": "Irish Moss",
+    "additional_names": "Club Moss, Cushion Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Mech irlandzki)"
+  },
+  {
+    "common_name": "Iron Tree",
+    "additional_names": "Maui Sunset, Flame of the Woods",
+    "latin_name": "Ixora coccinea",
+    "family": "Rubiaceae",
+    "polish_name": "Iksora szkarłatna (Żelazne drzewo)"
+  },
+  {
+    "common_name": "Ivy Peperomia",
+    "additional_names": "Plantinum Peperomia, Silver leaf Peperomia, Ivy leaf Peperomia",
+    "latin_name": "Peperomia griseoargentea",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia szarawa (Peperomia bluszczolistna)"
+  },
+  {
+    "common_name": "Jackson Brier",
+    "additional_names": "",
+    "latin_name": "Smilax lanceolata",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl lancetowata"
+  },
+  {
+    "common_name": "Jacob's Ladder",
+    "additional_names": "Carrion Flower",
+    "latin_name": "Smilax herbacea",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl zielna (Drabina Jakuba)"
+  },
+  {
+    "common_name": "Japanese Aralia",
+    "additional_names": "Formosa rice tree, Glossy-leaved paper plant, Big-leaf paper plant",
+    "latin_name": "Fatsia japonica",
+    "family": "Araliaceae",
+    "polish_name": "Fatsja japońska (Aralia japońska)"
+  },
+  {
+    "common_name": "Japanese Holly Fern",
+    "additional_names": "Fishtail Fern, Holly Fern",
+    "latin_name": "Cyrtomium falcatum",
+    "family": "Polypodaceae",
+    "polish_name": "Cyrtomium sierpowate (Japońska paproć ostrokrzewu)"
+  },
+  {
+    "common_name": "Japanese Moss",
+    "additional_names": "Club Moss, Cushion Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss, Irish Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Mech japoński)"
+  },
+  {
+    "common_name": "Japanese Pittosporum",
+    "additional_names": "Australian laurel, Mock orange",
+    "latin_name": "Pittosporum tobira",
+    "family": "Pittosporaceae",
+    "polish_name": "Pospornica japońska"
+  },
+  {
+    "common_name": "Jasmine",
+    "additional_names": "",
+    "latin_name": "Jasminum species",
+    "family": "Oleaceae",
+    "polish_name": "Jaśmin"
+  },
+  {
+    "common_name": "Jewel Orchid",
+    "additional_names": "Golden Lace Orchid",
+    "latin_name": "Haemaria discolor",
+    "family": "Orchidaceae",
+    "polish_name": "Hemaria dwubarwna (Orchidea klejnotowa)"
+  },
+  {
+    "common_name": "Joseph's Coat",
+    "additional_names": "Chicken Gizzard, Yellow Bloodleaf, Bloodleaf",
+    "latin_name": "Iresine herbstii",
+    "family": "Amaranthaceae",
+    "polish_name": "Iresine Herbsta (Płaszcz Józefa)"
+  },
+  {
+    "common_name": "Jungle Geranium",
+    "additional_names": "",
+    "latin_name": "Ixora javanica",
+    "family": "Rubiaceae",
+    "polish_name": "Iksora jawajska (Geranium dżunglowe)"
+  },
+  {
+    "common_name": "Kaempferia",
+    "additional_names": "Peacock Ginger",
+    "latin_name": "Kaempferia spp.",
+    "family": "Zingiberaceae",
+    "polish_name": "Kemferia (Imbir pawi)"
+  },
+  {
+    "common_name": "Kahali Ginger",
+    "additional_names": "",
+    "latin_name": "Hedychium gardnerianum",
+    "family": "Zingiberaceae",
+    "polish_name": "Hedychium Gardnera (Imbir Kahali)"
+  },
+  {
+    "common_name": "Kenilworth Ivy",
+    "additional_names": "Coliseum Ivy",
+    "latin_name": "Cymbalaria muralis",
+    "family": "Scrophulariaceae",
+    "polish_name": "Cymbalaria murowa (Bluszcz Kenilworth)"
+  },
+  {
+    "common_name": "Kentia Palm",
+    "additional_names": "Forster Senty Palm",
+    "latin_name": "Howea forsteriana",
+    "family": "Howea forsteriana",
+    "polish_name": "Howea Forstera (Palma Kentia)"
+  },
+  {
+    "common_name": "Kenya Violet",
+    "additional_names": "Usambra violet",
+    "latin_name": "Saintpaulia confusa",
+    "family": "Gesneraceae",
+    "polish_name": "Sępolia pomieszana (Fiołek kenijski)"
+  },
+  {
+    "common_name": "Kharoub",
+    "additional_names": "Carob Tree, Sugar Pods, Locust Pods, Beans",
+    "latin_name": "Ceratonia siliqua",
+    "family": "",
+    "polish_name": "Szarańczyn strąkowy (Chleb świętojański)"
+  },
+  {
+    "common_name": "King and Queen Fern",
+    "additional_names": "Hen and Chickens Fern, Spleenwort, Parsley fern",
+    "latin_name": "Asplenium bulbiferum",
+    "family": "Polypodaceae",
+    "polish_name": "Zanokcica bulwkowata (Paproć król i królowa)"
+  },
+  {
+    "common_name": "King Nut",
+    "additional_names": "",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy (Orzech królewski)"
+  },
+  {
+    "common_name": "King of the Forest",
+    "additional_names": "Golden Jewel Orchid",
+    "latin_name": "Anoectuchilus setaceus",
+    "family": "Orchidaceae",
+    "polish_name": "Anoectochilus setaceus (Król lasu)"
+  },
+  {
+    "common_name": "Kuang-yen-pa-hsieh",
+    "additional_names": "China Root, Ti-hu-ling, Shiny Leaf Smilax, Cat Brier",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Lace Flower Vine",
+    "additional_names": "Chocolate Soldier",
+    "latin_name": "Episcia dianthiflora",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia goździkokwiatowa (Koronkowa winorośl kwiatowa)"
+  },
+  {
+    "common_name": "Lace Orchid",
+    "additional_names": "",
+    "latin_name": "Odontoglossum crispum",
+    "family": "Orchidaceae",
+    "polish_name": "Odontoglossum kędzierzawe (Koronkowa orchidea)"
+  },
+  {
+    "common_name": "Ladies Ear Drops",
+    "additional_names": "",
+    "latin_name": "Fuschsia spp.",
+    "family": "Onagraceae",
+    "polish_name": "Fuksja (Kolczyki)"
+  },
+  {
+    "common_name": "Lady Lou",
+    "additional_names": "Flame Violet, Red Violet, Flame African Violet",
+    "latin_name": "Episcia reptans",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia płożąca (Pani Lou)"
+  },
+  {
+    "common_name": "Lady Palm",
+    "additional_names": "",
+    "latin_name": "Rhapis flabelliformus",
+    "family": "Arecaceae",
+    "polish_name": "Rapis wachlarzowaty (Palma damska)"
+  },
+  {
+    "common_name": "Lady Slipper",
+    "additional_names": "Giant Touch-Me-Not, Buzzy Lizzy, Patient Lucy, Patient Plant, Tangerine Impatience, Impatience Plant",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Pantofelek)"
+  },
+  {
+    "common_name": "Lagerstroemia Indica",
+    "additional_names": "Crepe/Crape Myrtle",
+    "latin_name": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "polish_name": "Lagerstremia indyjska"
+  },
+  {
+    "common_name": "Lance Pleomele",
+    "additional_names": "",
+    "latin_name": "Draceana spp.",
+    "family": "Asparagaceae",
+    "polish_name": "Dracena lancetowata"
+  },
+  {
+    "common_name": "Laurel-Leaved Greenbrier",
+    "additional_names": "Blaspheme vine, Bamboo Vine",
+    "latin_name": "Smilax laurifolia",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl wawrzynolistna"
+  },
+  {
+    "common_name": "Leather Peperomia",
+    "additional_names": "",
+    "latin_name": "Peperomia crassifolia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia grubolistna (Skórzasta peperomia)"
+  },
+  {
+    "common_name": "Lemon Balm",
+    "additional_names": "Balm, Common Balm, Balm mint",
+    "latin_name": "Melissa officinalis",
+    "family": "Lamiaceae",
+    "polish_name": "Melisa lekarska"
+  },
+  {
+    "common_name": "Leopard Orchid",
+    "additional_names": "Tiger Orchid",
+    "latin_name": "Dendrobium gracilicaule",
+    "family": "Orchidaceae",
+    "polish_name": "Dendrobium smukłe (Orchidea lamparcia)"
+  },
+  {
+    "common_name": "Lesser Snapdragon",
+    "additional_names": "",
+    "latin_name": "Antirrhinum orontium",
+    "family": "Mimosaceae",
+    "polish_name": "Wyżlin polny (Mniejsza lwia paszcza)"
+  },
+  {
+    "common_name": "Lily of the Valley Orchid",
+    "additional_names": "",
+    "latin_name": "Odontoglossum pulchellum",
+    "family": "Orchidaceae",
+    "polish_name": "Odontoglossum piękne (Orchidea konwaliowa)"
+  },
+  {
+    "common_name": "Linden",
+    "additional_names": "",
+    "latin_name": "Tilia americana",
+    "family": "Tiliaceae",
+    "polish_name": "Lipa amerykańska"
+  },
+  {
+    "common_name": "Lipstick Plant",
+    "additional_names": "",
+    "latin_name": "Aeschynanthus humilis",
+    "family": "Gesneriaceae",
+    "polish_name": "Eschynantus skromny (Roślina szminkowa)"
+  },
+  {
+    "common_name": "Little Fantasy Peperomia",
+    "additional_names": "Green Ripple Peperomia, Emerald Ripple Peperomia",
+    "latin_name": "Peperomia caperata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kędzierzawa (Mała fantazyjna peperomia)"
+  },
+  {
+    "common_name": "Little Zebra Plant",
+    "additional_names": "",
+    "latin_name": "Haworthia subfasciata",
+    "family": "Aloaceae",
+    "polish_name": "Haworsja pręgowana (Mała zebra)"
+  },
+  {
+    "common_name": "Living Rock Cactus",
+    "additional_names": "African living rock, Mimicry plant",
+    "latin_name": "Pleiospilos bolusii",
+    "family": "Aizoaceae",
+    "polish_name": "Pleiospilos Bolusa (Żywy kamień)"
+  },
+  {
+    "common_name": "Living Stones",
+    "additional_names": "Kiawe, Mesquite",
+    "latin_name": "Lithops naureeniae",
+    "family": "Aizoaceae",
+    "polish_name": "Litops Naureeniae (Żywe kamienie)"
+  },
+  {
+    "common_name": "Loco Weed (Oxytropis spp.)",
+    "additional_names": "Locoweed",
+    "latin_name": "Oxytropis spp.",
+    "family": "Fabaceae",
+    "polish_name": "Ostrołódka (Traganek)"
+  },
+  {
+    "common_name": "Locust Pods",
+    "additional_names": "Carob Tree, Sugar Pods, Kharoub, Beans",
+    "latin_name": "Ceratonia siliqua",
+    "family": "",
+    "polish_name": "Szarańczyn strąkowy (Strąki chleba świętojańskiego)"
+  },
+  {
+    "common_name": "Madagascar Jasmine",
+    "additional_names": "Wax Flower, Bride's Flower, Clustered Wax Flower",
+    "latin_name": "Stephanotis floribunda",
+    "family": "Ascleopiadaceae",
+    "polish_name": "Stefanotis bukietowy (Jaśmin madagaskarski)"
+  },
+  {
+    "common_name": "Magnolia Bush",
+    "additional_names": "Star Magnolia",
+    "latin_name": "Magnolia stellata",
+    "family": "Magnoliaceae",
+    "polish_name": "Magnolia gwiaździsta (Krzew magnolii)"
+  },
+  {
+    "common_name": "Mahonia",
+    "additional_names": "Oregon Grape, Oregon Grape Holly, Mahonia aguifolium, Holly-leaved berry",
+    "latin_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "polish_name": "Mahonia pospolita"
+  },
+  {
+    "common_name": "Majesty Palm ",
+    "additional_names": "Majestic Palm",
+    "latin_name": "Ravenea rivularis",
+    "family": "Aracaceae",
+    "polish_name": "Rawenea przylądkowa (Palma majestatyczna)"
+  },
+  {
+    "common_name": "Malabar Gourd",
+    "additional_names": "Fig-leaf gourd",
+    "latin_name": "Cucurbita ficifolia",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia figolistna (Gurda malabarska)"
+  },
+  {
+    "common_name": "Malaysian Dracaena",
+    "additional_names": "Song of India, Pleomele",
+    "latin_name": "Dracaena reflexa",
+    "family": "Asparagaceae",
+    "polish_name": "Dracena odgięta (Dracena malezyjska)"
+  },
+  {
+    "common_name": "Manila Palm",
+    "additional_names": "Dwarf Royal Palm, Christmas Palm",
+    "latin_name": "Veitchia merrillii",
+    "family": "Arecaceae",
+    "polish_name": "Adonidia Merilla (Palma manilska)"
+  },
+  {
+    "common_name": "Maranta",
+    "additional_names": "",
+    "latin_name": "Calathea insignis",
+    "family": "Marantaceae",
+    "polish_name": "Maranta"
+  },
+  {
+    "common_name": "Marbled Fingernail",
+    "additional_names": "Fingernail Plant",
+    "latin_name": "Neoregelia spectabilis",
+    "family": "Bromeliaceae",
+    "polish_name": "Neoregelia spectabilis (Marmurkowy paznokieć)"
+  },
+  {
+    "common_name": "Mariposa Lily",
+    "additional_names": "Sego Lily",
+    "latin_name": "Calochortus gunnisonii",
+    "family": "Liliaceae",
+    "polish_name": "Kokoryczka Gunnisona (Lilia Mariposa)"
+  },
+  {
+    "common_name": "Maroon",
+    "additional_names": "Copper Rose",
+    "latin_name": "Echeveria multicaulis",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria wielołodygowa (Kasztanowy)"
+  },
+  {
+    "common_name": "Maroon Chenille Plant",
+    "additional_names": "Blue Echeveria, Painted Lady, Copper Rose, Wax Rosette, Plush Plant",
+    "latin_name": "Echeveria derenbergii",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria Derenberga (Kasztanowa roślina szenilowa)"
+  },
+  {
+    "common_name": "Mary-Bud",
+    "additional_names": "Marigold, Garden Marigold, Gold bloom, Pot Marigold",
+    "latin_name": "Calendula officinalis",
+    "family": "Compositae",
+    "polish_name": "Nagietek lekarski"
+  },
+  {
+    "common_name": "Measles Plant",
+    "additional_names": "Polka Dot Plant, Flamingo Plant, Baby’s Tears, Freckle Face",
+    "latin_name": "Acantha",
+    "family": "Acanthaceae",
+    "polish_name": "Niedośpian (Roślina odrowa)"
+  },
+  {
+    "common_name": "Metallic Peperomia",
+    "additional_names": "",
+    "latin_name": "Peperomia caperata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kędzierzawa (Metaliczna peperomia)"
+  },
+  {
+    "common_name": "Mexican Firecracker",
+    "additional_names": "",
+    "latin_name": "Echeveria Pulinata",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria Pulinata (Meksykański fajerwerk)"
+  },
+  {
+    "common_name": "Mexican Rosettes",
+    "additional_names": "",
+    "latin_name": "Echevaria",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria (Meksykańskie rozety)"
+  },
+  {
+    "common_name": "Mexican Snowballs",
+    "additional_names": "",
+    "latin_name": "Echevaria",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria (Meksykańskie kule śnieżne)"
+  },
+  {
+    "common_name": "Miniature Date Palm",
+    "additional_names": "Pygmy Date Palm, Robellini Palm",
+    "latin_name": "Phoenix robellinii",
+    "family": "Arecaceae",
+    "polish_name": "Daklowiec Robeliniego (Miniaturowa palma daktylowa)"
+  },
+  {
+    "common_name": "Miniature Fish Tail",
+    "additional_names": "Parlor Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Miniaturowy rybi ogon)"
+  },
+  {
+    "common_name": "Miniature Maranta",
+    "additional_names": "",
+    "latin_name": "Calathea micans",
+    "family": "Saxifragaceae",
+    "polish_name": "Kalatea błyszcząca (Miniaturowa maranta)"
+  },
+  {
+    "common_name": "Miniature Marble Plant",
+    "additional_names": "",
+    "latin_name": "Neoregelia spectabilis",
+    "family": "Bromeliaceae",
+    "polish_name": "Neoregelia spectabilis (Miniaturowa roślina marmurkowa)"
+  },
+  {
+    "common_name": "Mistletoe Cactus",
+    "additional_names": "",
+    "latin_name": "Rhipsalis cassutha",
+    "family": "Cactaceae",
+    "polish_name": "Rhipsalis cassutha (Kaktus jemiołowy)"
+  },
+  {
+    "common_name": "Mockernut Hickory",
+    "additional_names": "Squarenut",
+    "latin_name": "Carya tomentosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik omszony"
+  },
+  {
+    "common_name": "Money Tree",
+    "additional_names": "Money Plant",
+    "latin_name": "Pachira aquatica ",
+    "family": "Malvaceae",
+    "polish_name": "Pachira wodna (Drzewko pieniędzy)"
+  },
+  {
+    "common_name": "Mosaic Plant",
+    "additional_names": "Jewel Plant, Siver Nerve, Nerve Plant, Silver Threads",
+    "latin_name": "Bertolonia mosaica",
+    "family": "Melastomataceae",
+    "polish_name": "Bertolonia mozaikowa (Mozaikowa roślina)"
+  },
+  {
+    "common_name": "Mosaic Vase",
+    "additional_names": "",
+    "latin_name": "Guzmania musaica",
+    "family": "Bromeliaceae",
+    "polish_name": "Guzmania mozaikowa (Mozaikowy wazon)"
+  },
+  {
+    "common_name": "Moss Agate",
+    "additional_names": "Flame Violet, Red Violet, Flame African Violet, Lady Lou",
+    "latin_name": "Episcia reptans",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia płożąca (Mech agatowy)"
+  },
+  {
+    "common_name": "Moss Campion",
+    "additional_names": "Bladder Campion, Cushion Pink, Dwarf Silene, Catchfly",
+    "latin_name": "Silene acaulis",
+    "family": "Caryophyllaceae",
+    "polish_name": "Lepnica bezłodygowa (Mechowy goździk)"
+  },
+  {
+    "common_name": "Moss Fern",
+    "additional_names": "Club Moss, Irish Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss, Cushion Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Paproć mchowa)"
+  },
+  {
+    "common_name": "Moss Phlox",
+    "additional_names": "",
+    "latin_name": "Phlox subulata",
+    "family": "Polemoniaceae",
+    "polish_name": "Floks szydlasty (Mechowy floks)"
+  },
+  {
+    "common_name": "Mossy Campion",
+    "additional_names": "Bladder Campion, Cushion Pink, Dwarf Silene, Catchfly, Moss Campion",
+    "latin_name": "Silene acaulis",
+    "family": "Caryophyllaceae",
+    "polish_name": "Lepnica bezłodygowa (Mchowy goździk)"
+  },
+  {
+    "common_name": "Mother Fern",
+    "additional_names": "King and Queen Fern, Spleenwort, Parsley Fern, Hen and Chickens Fern",
+    "latin_name": "Asplenium bulbiferum",
+    "family": "Polypodaceae",
+    "polish_name": "Zanokcica bulwkowata (Paproć matka)"
+  },
+  {
+    "common_name": "Mother of Pearl",
+    "additional_names": "Ghost Plant",
+    "latin_name": "Secum weinbergii",
+    "family": "Crassulaceae",
+    "polish_name": "Rozchodnik Weinberga (Macica perłowa)"
+  },
+  {
+    "common_name": "Mother Spleenwort",
+    "additional_names": "King and Queen Fern, Spleenwort, Parsley Fern, Hen and Chickens Fern, Mother Fern",
+    "latin_name": "Asplenium bulbiferum",
+    "family": "Polypodaceae",
+    "polish_name": "Zanokcica bulwkowata (Matczyna zanokcica)"
+  },
+  {
+    "common_name": "Mountain Camellia",
+    "additional_names": "Showy Camellia",
+    "latin_name": "Stewartia ovata",
+    "family": "Theaceae",
+    "polish_name": "Stewarcja jajowata (Górska kamelia)"
+  },
+  {
+    "common_name": "Mountain Grape",
+    "additional_names": "Oregon Grape, Oregon Grape Holly, Mahonia Aguifolium, Holly-Leaved Berry, Mahonia",
+    "latin_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "polish_name": "Mahonia pospolita (Winogrono górskie)"
+  },
+  {
+    "common_name": "Mulberry Bush Greenbrier",
+    "additional_names": "",
+    "latin_name": "Smilax sp.",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl (Morwowy krzew kolcorośli)"
+  },
+  {
+    "common_name": "Mulberry Tree",
+    "additional_names": "",
+    "latin_name": "Morus sp.",
+    "family": "Moraceae",
+    "polish_name": "Morwa"
+  },
+  {
+    "common_name": "Musa Paradisiaca",
+    "additional_names": "Banana, Edible Banana, Plantain",
+    "latin_name": "Musa acuminata",
+    "family": "Musaceae",
+    "polish_name": "Banan rajski"
+  },
+  {
+    "common_name": "Muscari Armeniacum",
+    "additional_names": "Grape Hyacinth",
+    "latin_name": "Muscari armeniacum",
+    "family": "Hyacinthaceae",
+    "polish_name": "Szafirek armeński"
+  },
+  {
+    "common_name": "Muskmelon",
+    "additional_names": "",
+    "latin_name": "Cucumis melo",
+    "family": "Cucurbiaceae",
+    "polish_name": "Melon piżmowy"
+  },
+  {
+    "common_name": "Nasturtium",
+    "additional_names": "Nose-Twister, Nose-Tweaker",
+    "latin_name": "Tropaeolum majus",
+    "family": "Tropaeolaceae",
+    "polish_name": "Nasturcja większa"
+  },
+  {
+    "common_name": "Natal Plum",
+    "additional_names": "",
+    "latin_name": "Carissa grandiflora",
+    "family": "Apocynaceae",
+    "polish_name": "Karissa wielkokwiatowa (Śliwka natalijska)"
+  },
+  {
+    "common_name": "Neanthe Bella Palm",
+    "additional_names": "Neanthebella",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Araceae",
+    "polish_name": "Chamedora wytworna (Palma Neanthe Bella)"
+  },
+  {
+    "common_name": "Nematanthus spp.",
+    "additional_names": "Candy Corn Plant",
+    "latin_name": "Hypocyrta nummularia",
+    "family": "Gesneriaceae",
+    "polish_name": "Nematanthus (Roślina kukurydziana)"
+  },
+  {
+    "common_name": "Neoregelia",
+    "additional_names": "Crimson Cup, Marbled Fingernail, Blushing Bromeliad, Ossifragi Vase, Miniature Marble Plant, Aregelia",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromiliaceae",
+    "polish_name": "Neoregelia"
+  },
+  {
+    "common_name": "Nerve Plant",
+    "additional_names": "Jewel Plant, Silver Nerve, Mosaic Plant, Silver Threads",
+    "latin_name": "Fittonia verschaffeltii",
+    "family": "Acanthaceae",
+    "polish_name": "Fitonia Verschaffelta (Roślina nerwowa)"
+  },
+  {
+    "common_name": "Night Blooming Cereus",
+    "additional_names": "Queen of the Night, Pitaya, Honolulu Queen",
+    "latin_name": "Hylocereus undatus",
+    "family": "Cactaceae",
+    "polish_name": "Hylocereus falisty (Królowa nocy)"
+  },
+  {
+    "common_name": "Old Man Cactus",
+    "additional_names": "",
+    "latin_name": "Cephalocereus senilis",
+    "family": "Cactaceae",
+    "polish_name": "Cefalocereus starczy (Kaktus starca)"
+  },
+  {
+    "common_name": "Old World Orchid",
+    "additional_names": "Cirrhopetalum",
+    "latin_name": "Bulbophyllum appendiculatum",
+    "family": "Orchidaceae",
+    "polish_name": "Bulbophyllum (Orchidea Starego Świata)"
+  },
+  {
+    "common_name": "Orange Star",
+    "additional_names": "",
+    "latin_name": "Guzmania lingulata minor",
+    "family": "Bromeliaceae",
+    "polish_name": "Guzmania języczkowata mniejsza (Pomarańczowa gwiazda)"
+  },
+  {
+    "common_name": "Oregon Grape",
+    "additional_names": "Mountain Grape, Oregon Grape Holly, Mahonia Aguifolium, Holly-Leaved Berry, Mahonia",
+    "latin_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "polish_name": "Mahonia pospolita (Winogrono oregońskie)"
+  },
+  {
+    "common_name": "Ossifragi Vase",
+    "additional_names": "Crimson Cup, Marbled Fingernail, Blushing Bromeliad, Neoregelia, Miniature Marble Plant, Aregelia",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromiliaceae",
+    "polish_name": "Neoregelia (Wazon Ossifragi)"
+  },
+  {
+    "common_name": "Paddys Wig",
+    "additional_names": "Japanese moss, Peace-in-the-home, Corsican Carpet, Angel's Tears, Irish Moss, Mind-your-own-business, Pollyanna vine, Baby Tears",
+    "latin_name": "Soleirolia soleirolii",
+    "family": "Urticaceae",
+    "polish_name": "Soleirolia rozesłana (Peruka Paddy'ego)"
+  },
+  {
+    "common_name": "Painted Lady",
+    "additional_names": "Copper Rose",
+    "latin_name": "Echeveria multicaulis",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria wielołodygowa (Malowana dama)"
+  },
+  {
+    "common_name": "Pampas Grass",
+    "additional_names": "",
+    "latin_name": "Cortaderia selloana",
+    "family": "Poaceae",
+    "polish_name": "Trawa pampasowa"
+  },
+  {
+    "common_name": "Panamiga",
+    "additional_names": "Friendship Plant",
+    "latin_name": "Pilea involucrata",
+    "family": "Urticaceae",
+    "polish_name": "Pilea involucrata (Panamiga)"
+  },
+  {
+    "common_name": "Pansy Orchid",
+    "additional_names": "",
+    "latin_name": "Miltonia roezlii alba",
+    "family": "Orchidaceae",
+    "polish_name": "Miltonia Roezla biała (Orchidea bratkowata)"
+  },
+  {
+    "common_name": "Paradise Palm",
+    "additional_names": "Kentia palm, Forster Senty Palm",
+    "latin_name": "Howea forsteriana",
+    "family": "Howea forsteriana",
+    "polish_name": "Howea Forstera (Rajska palma)"
+  },
+  {
+    "common_name": "Parlor Palm",
+    "additional_names": "Miniature Fish Tail Dwarf Palm, Good Luck Palm, Bamboo Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Palma salonowa)"
+  },
+  {
+    "common_name": "Parsley Fern",
+    "additional_names": "King and Queen Fern, Spleenwort, Mother Fern, Hen and Chickens Fern",
+    "latin_name": "Asplenium bulbiferum",
+    "family": "Polypodaceae",
+    "polish_name": "Zanokcica bulwkowata (Paproć pietruszkowa)"
+  },
+  {
+    "common_name": "Patient Lucy",
+    "additional_names": "Giant Touch-Me-Not, Impatience Plant, Patient Plant, Tangerine Impatience, Buzzy Lizzie",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Cierpliwa Lucy)"
+  },
+  {
+    "common_name": "Patient Plant",
+    "additional_names": "Giant Touch-Me-Not, Impatience Plant, Patient Lucy, Tangerine Impatience, Buzzy Lizzie",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Cierpliwa roślina)"
+  },
+  {
+    "common_name": "Peacock Plant",
+    "additional_names": "Peacock Ginger, Kaempferia",
+    "latin_name": "Kaempferia",
+    "family": "Zingiberaceae",
+    "polish_name": "Kemferia (Pawia roślina)"
+  },
+  {
+    "common_name": "Pearl Plant",
+    "additional_names": "",
+    "latin_name": "Haworthia margaritifera",
+    "family": "Liliaceae",
+    "polish_name": "Haworsja perłowa (Perłowa roślina)"
+  },
+  {
+    "common_name": "Pearly Dots",
+    "additional_names": "",
+    "latin_name": "Haworthia margaritifera",
+    "family": "Liliaceae",
+    "polish_name": "Haworsja perłowa (Perłowe kropki)"
+  },
+  {
+    "common_name": "Peperomia Hederifolia",
+    "additional_names": "Plantinum Peperomia, Silver Leaf Peperomia, Ivy Leaf Peperomia, Ivy Peperomia",
+    "latin_name": "Peperomia griseoargentea",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia szarawa"
+  },
+  {
+    "common_name": "Peperomia Peltfolia",
+    "additional_names": "",
+    "latin_name": "Peperomia peltifolia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia tarczowata"
+  },
+  {
+    "common_name": "Peperomia Rotundifolia",
+    "additional_names": "",
+    "latin_name": "Peperomia rotundifolia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia okrągłolistna"
+  },
+  {
+    "common_name": "Peperomia Sandersii",
+    "additional_names": "",
+    "latin_name": "Peperomia sandersii",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia Sandersa"
+  },
+  {
+    "common_name": "Pepper Face",
+    "additional_names": "Baby Rubber Plant, American Rubber Plant",
+    "latin_name": "Peperomia obtusifolia",
+    "family": "Pipericeae",
+    "polish_name": "Peperomia tępolistna (Pieprzowa twarz)"
+  },
+  {
+    "common_name": "Persian Violet",
+    "additional_names": "Arabian gentian, German Violet",
+    "latin_name": "Exacum affine",
+    "family": "Gentianaceae",
+    "polish_name": "Egzakum pokrewne (Fiołek perski)"
+  },
+  {
+    "common_name": "Peruvian Lily",
+    "additional_names": "Lily of the Incas, Princess Lily, Alstromeria",
+    "latin_name": "Alstroemeria",
+    "family": "Liliaceae",
+    "polish_name": "Alstremeria (Lilia peruwiańska)"
+  },
+  {
+    "common_name": "Petunia",
+    "additional_names": "",
+    "latin_name": "Petunia species",
+    "family": "Solanaceae",
+    "polish_name": "Petunia"
+  },
+  {
+    "common_name": "Phalaenopsis Orchid",
+    "additional_names": "Moth Orchid, Moon Orchid",
+    "latin_name": "Phalaenopsis sp.",
+    "family": "Orchidaceae",
+    "polish_name": "Falernopsis (Orchidea ćmówka)"
+  },
+  {
+    "common_name": "Pheasant Plant",
+    "additional_names": "Zebra Plant",
+    "latin_name": "Cryptanthus zonatus",
+    "family": "Bromeliaceae",
+    "polish_name": "Kryptantus pręgowany (Bażancia roślina)"
+  },
+  {
+    "common_name": "Piggy Back Plant",
+    "additional_names": "Pick-a-back plant, Mother of Thousands, Curiosity plant",
+    "latin_name": "Tolmeia menziesii",
+    "family": "Saxifragaceae",
+    "polish_name": "Tolmiea Menziesa (Roślina na barana)"
+  },
+  {
+    "common_name": "Pignut Hickory",
+    "additional_names": "",
+    "latin_name": "Carya glabra",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik gładki"
+  },
+  {
+    "common_name": "Pilea Microphylla",
+    "additional_names": "Artillery Plant",
+    "latin_name": "Pilea microphylla",
+    "family": "Urticaceae",
+    "polish_name": "Pilea drobnolistna"
+  },
+  {
+    "common_name": "Pilea Mucosa",
+    "additional_names": "Artillery Plant",
+    "latin_name": "Pilea microphylla",
+    "family": "Urticaceae",
+    "polish_name": "Pilea drobnolistna"
+  },
+  {
+    "common_name": "Pincushion Flower",
+    "additional_names": "",
+    "latin_name": "Leucospermum incisum",
+    "family": "Protaeceae",
+    "polish_name": "Leukospermum nacięte (Kwiat poduszkowy)"
+  },
+  {
+    "common_name": "Pink Brocade",
+    "additional_names": "",
+    "latin_name": "Episcia cultivar",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia (Różowy brokat)"
+  },
+  {
+    "common_name": "Pink Splash",
+    "additional_names": "Flamingo Plant, Polka Dot Plant, Measles Plant, Baby’s Tears, Freckle Face",
+    "latin_name": "Hypoestes phyllostachya",
+    "family": "Acanthaceae",
+    "polish_name": "Niedośpian kłosolistny (Różowy plusk)"
+  },
+  {
+    "common_name": "Pink Starlite",
+    "additional_names": "Starfish Plant, Green Earth Star, Vary-Leaf Star, Earth Star, Rose-stripe Star",
+    "latin_name": "Cryptanthus bivattus minor",
+    "family": "Bromeliaceae",
+    "polish_name": "Kryptantus dwupaskowy mniejszy (Różowa gwiazdka)"
+  },
+  {
+    "common_name": "Pirliteiro",
+    "additional_names": "Haws",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg"
+  },
+  {
+    "common_name": "Pitaya",
+    "additional_names": "Queen of the Night, Night Blooming Cereus, Honolulu Queen",
+    "latin_name": "Hylocereus undatus",
+    "family": "Cactaceae",
+    "polish_name": "Hylocereus falisty (Pitaja)"
+  },
+  {
+    "common_name": "Plantanus Occidentalis",
+    "additional_names": "oriental plane",
+    "latin_name": "Plantanus occidentalis",
+    "family": "Plantanaceae",
+    "polish_name": "Platan zachodni"
+  },
+  {
+    "common_name": "Platinum Peperomia",
+    "additional_names": "Ivy Peperomia, Silver Leaf Peperomia, Ivy Leaf Peperomia",
+    "latin_name": "Peperomia griseoargentea",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia szarawa (Platynowa peperomia)"
+  },
+  {
+    "common_name": "Platycerium Alcicorne",
+    "additional_names": "Staghorn Fern",
+    "latin_name": "Platycerium alcicorne",
+    "family": "Polypodaceae",
+    "polish_name": "Płaskla łosioroga"
+  },
+  {
+    "common_name": "Plumbago Larpentiae",
+    "additional_names": "",
+    "latin_name": "Ceratostigma larpentiae",
+    "family": "Plumbaginaceae",
+    "polish_name": "Ceratostigma Larpentae (Ołownik Larpenty)"
+  },
+  {
+    "common_name": "Plush Plant",
+    "additional_names": "",
+    "latin_name": "Echeveria pul-oliver",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria Pulvinata Oliver (Pluszowa roślina)"
+  },
+  {
+    "common_name": "Poison Ivy",
+    "additional_names": "poison oak, poison sumac",
+    "latin_name": "Toxicodendron species",
+    "family": "Anacardiaceae",
+    "polish_name": "Sumak jadowity (Trujący bluszcz)"
+  },
+  {
+    "common_name": "Poison Oak",
+    "additional_names": "Similar: Poison Ivy, Poison Sumac",
+    "latin_name": "Toxicodendron species",
+    "family": "Anacardiaceae",
+    "polish_name": "Sumak jadowity (Trujący dąb)"
+  },
+  {
+    "common_name": "Poison Sumac",
+    "additional_names": "Similar: Poison Ivy, Poison Oak",
+    "latin_name": "Toxicodendron species",
+    "family": "Anacardiaceae",
+    "polish_name": "Sumak jadowity"
+  },
+  {
+    "common_name": "Polka Dot Plant",
+    "additional_names": "Pink Polka Dot Plant, Measles Plant, Baby’s Tears, Freckle Face",
+    "latin_name": "Hypoestes phyllostachya",
+    "family": "Acanthaceae",
+    "polish_name": "Niedośpian kłosolistny (Roślina w kropki)"
+  },
+  {
+    "common_name": "Polystichum Falcatum",
+    "additional_names": "Fishtail Fern",
+    "latin_name": "Cyrtomium falcatum",
+    "family": "Polypodaceae",
+    "polish_name": "Cyrtomium sierpowate"
+  },
+  {
+    "common_name": "Pony Tail",
+    "additional_names": "Elephant-Foot Tree, Pony Tail Plant, Bottle Palm",
+    "latin_name": "Beaucarnea recurvata",
+    "family": "Agavaceae",
+    "polish_name": "Nolina wygięta (Koński ogon)"
+  },
+  {
+    "common_name": "Porcelain Flower",
+    "additional_names": "Hindu Rope Plant",
+    "latin_name": "Hoya carnosa 'krinkle kurl'",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja różowa 'Krinkle Kurl' (Porcelanowy kwiat)"
+  },
+  {
+    "common_name": "Pot Marigold",
+    "additional_names": "Marigold, Mary Bud, Gold bloom",
+    "latin_name": "Calendula officinalis",
+    "family": "Compositae",
+    "polish_name": "Nagietek lekarski (Nagietek doniczkowy)"
+  },
+  {
+    "common_name": "Prairie Lily",
+    "additional_names": "giant rain lily, hill country rain lily",
+    "latin_name": "Zephyranthes drummondii",
+    "family": "Amaryllidaceae",
+    "polish_name": "Zefirant Drummonda (Lilia preriowa)"
+  },
+  {
+    "common_name": "Prayer Plant",
+    "additional_names": "Maranta, Peacock Plant, Rattle Snake Plant, Red Veined Prayer, Zebra Plant",
+    "latin_name": "Calathea insignis",
+    "family": "Marantaceae",
+    "polish_name": "Kalatea (Roślina modlitewna)"
+  },
+  {
+    "common_name": "Prostrate Coleus",
+    "additional_names": "",
+    "latin_name": "Plectranthus oetendahlii",
+    "family": "Lamiaceae",
+    "polish_name": "Plekrantus Oetendahla (Płożący koleus)"
+  },
+  {
+    "common_name": "Pupleosier Willow",
+    "additional_names": "",
+    "latin_name": "Salix purpurea",
+    "family": "Saliaceae",
+    "polish_name": "Wierzba purpurowa"
+  },
+  {
+    "common_name": "Purple Baby Tears",
+    "additional_names": "fairy elephant's feet",
+    "latin_name": "Frithia pulchra",
+    "family": "Aizoaceae",
+    "polish_name": "Frithia piękna (Fioletowe łzy dziecka)"
+  },
+  {
+    "common_name": "Purple Passion Vine",
+    "additional_names": "Velvet Plant, Royal Velvet Plant, Purple Velvet Plant",
+    "latin_name": "Gynura aurantica",
+    "family": "Asteraceae",
+    "polish_name": "Gynura pomarańczowa (Fioletowa winorośl męczennicy)"
+  },
+  {
+    "common_name": "Purple Velvet Plant",
+    "additional_names": "Velvet Plant, Royal Velvet Plant, Purple Passion Vine",
+    "latin_name": "Gynura aurantica",
+    "family": "Asteraceae",
+    "polish_name": "Gynura pomarańczowa (Fioletowa aksamitna roślina)"
+  },
+  {
+    "common_name": "Purple Waffle Plant",
+    "additional_names": "waffle plant",
+    "latin_name": "Hemigraphis exotica",
+    "family": "Acanthaceae",
+    "polish_name": "Hemigraphis egzotyczny (Fioletowa roślina gofrowa)"
+  },
+  {
+    "common_name": "Queencup",
+    "additional_names": "Bride's Bonnet",
+    "latin_name": "Clintonia uniflora",
+    "family": "Liliaceae",
+    "polish_name": "Klintonia jednokwiatowa (Kielich królowej)"
+  },
+  {
+    "common_name": "Queens Spiderwort",
+    "additional_names": "",
+    "latin_name": "Dichorisandra reginae",
+    "family": "Commelinaceae",
+    "polish_name": "Dichorisandra królewska (Pajęczynowiec królowej)"
+  },
+  {
+    "common_name": "Queensland Arrowroot",
+    "additional_names": "Achira, Canna, Arrowroot",
+    "latin_name": "Canna edulis",
+    "family": "Cannaceae",
+    "polish_name": "Paciorecznik jadalny (Maranta z Queensland)"
+  },
+  {
+    "common_name": "Rabbits Foot Fern",
+    "additional_names": "Hare Fern, Squirrel Foot Fern, Deer Foot Fern, Ball Fern",
+    "latin_name": "Davallia spp.",
+    "family": "Polypodiaceae",
+    "polish_name": "Dawalia (Paproć zajęcza łapa)"
+  },
+  {
+    "common_name": "Rainbow Orchid",
+    "additional_names": "",
+    "latin_name": "Epidendrum prismatocarpum",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum prismatocarpum (Tęczowa orchidea)"
+  },
+  {
+    "common_name": "Red African Violet",
+    "additional_names": "Flame African Violet",
+    "latin_name": "Episcia reptans",
+    "family": "Gesneriaceae",
+    "polish_name": "Episcia płożąca (Czerwony fiołek afrykański)"
+  },
+  {
+    "common_name": "Red Berried Greenbrier",
+    "additional_names": "red-berried-bamboo",
+    "latin_name": "Smilax walteria",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl Waltera (Czerwonojagodowa kolcorośl)"
+  },
+  {
+    "common_name": "Red Edge Peperomia",
+    "additional_names": "",
+    "latin_name": "Peperomia clusiifolia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kluzyfolistna (Peperomia o czerwonych brzegach)"
+  },
+  {
+    "common_name": "Red Hawthorne",
+    "additional_names": "Haws, Pirliteiro",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg czerwony"
+  },
+  {
+    "common_name": "Red Maple",
+    "additional_names": "Swamp Maple, Scarlet Maple, Water Maple, Soft Maple",
+    "latin_name": "Acer rubrum",
+    "family": "Sapindaceae",
+    "polish_name": "Klon czerwony"
+  },
+  {
+    "common_name": "Red Palm Lily",
+    "additional_names": "Red Fruited Palm Lily",
+    "latin_name": "Cordyline rubra",
+    "family": "Agavaceae",
+    "polish_name": "Kordylina czerwona (Czerwona palma liliowa)"
+  },
+  {
+    "common_name": "Red Veined Prayer",
+    "additional_names": "Maranta, Prayer Plant",
+    "latin_name": "Calathea insignis",
+    "family": "Marantaceae",
+    "polish_name": "Kalatea (Czerwonożyłkowana roślina modlitewna)"
+  },
+  {
+    "common_name": "Reed Palm",
+    "additional_names": "Bamboo palm, Miniature Fish Tail Dwarf Palm, Parlor Palm, Good Luck Palm",
+    "latin_name": "Chamaedorea elegans",
+    "family": "Palmae",
+    "polish_name": "Chamedora wytworna (Palma trzcinowa)"
+  },
+  {
+    "common_name": "Resurrection Lily",
+    "additional_names": "Peacock Ginger, Kaempferia",
+    "latin_name": "Kaempferia",
+    "family": "Zingiberaceae",
+    "polish_name": "Kemferia (Lilia zmartwychwstania)"
+  },
+  {
+    "common_name": "Rhynchophorum",
+    "additional_names": "Pepper Face, Baby Rubber Plant, American Rubber Plant",
+    "latin_name": "Peperomia obtusifolia",
+    "family": "Pipericeae",
+    "polish_name": "Peperomia tępolistna"
+  },
+  {
+    "common_name": "Ribbon Plant (Chlorophytum Comosum)",
+    "additional_names": "anthericum, walking anthericum, spider ivy, spider plant",
+    "latin_name": "Chlorophytum comosum",
+    "family": "Liliaceae",
+    "polish_name": "Zielistka Sternberga (Roślina wstążkowa)"
+  },
+  {
+    "common_name": "Roosevelt Fern",
+    "additional_names": "Bold Sword Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć Roosevelta)"
+  },
+  {
+    "common_name": "Rose",
+    "additional_names": "",
+    "latin_name": "Rosa Species",
+    "family": "Rosaceae",
+    "polish_name": "Róża"
+  },
+  {
+    "common_name": "Rose of China",
+    "additional_names": "Hibiscus, Rose of Sharon",
+    "latin_name": "Hibiscus syriacus",
+    "family": "Malvaceae",
+    "polish_name": "Ketmia syryjska (Róża chińska)"
+  },
+  {
+    "common_name": "Rose of Sharon",
+    "additional_names": "Hibiscus, Rose of China",
+    "latin_name": "Hibiscus syriacus",
+    "family": "Malvaceae",
+    "polish_name": "Ketmia syryjska (Róża Szaronu)"
+  },
+  {
+    "common_name": "Rosemary",
+    "additional_names": "Anthos",
+    "latin_name": "Rosmarinus officinalis",
+    "family": "Lamiaceae",
+    "polish_name": "Rozmaryn lekarski"
+  },
+  {
+    "common_name": "Russian Knapweed",
+    "additional_names": "",
+    "latin_name": "Centaurea repens",
+    "family": "Compositae",
+    "polish_name": "Chaber rosyjski"
+  },
+  {
+    "common_name": "Russian Olive",
+    "additional_names": "Autumn Olive, Silverberry",
+    "latin_name": "elaeagnus species",
+    "family": "Elaeagnaceae",
+    "polish_name": "Oliwnik (Oliwka rosyjska)"
+  },
+  {
+    "common_name": "Saffron Spike Zebra",
+    "additional_names": "",
+    "latin_name": "Aphelandra squarrosa",
+    "family": "Acanthaceae",
+    "polish_name": "Afelandra czworokątna (Szafranowa zebra)"
+  },
+  {
+    "common_name": "Sage",
+    "additional_names": "Common Sage, Garden Sage",
+    "latin_name": "Salvia officinalis",
+    "family": "Lamiaceae",
+    "polish_name": "Szałwia lekarska"
+  },
+  {
+    "common_name": "Saint Bernards Lily",
+    "additional_names": "",
+    "latin_name": "Anthericum liliago",
+    "family": "Liliaceae",
+    "polish_name": "Pajęcznica liliowata (Lilia św. Bernarda)"
+  },
+  {
+    "common_name": "Salad Burnet",
+    "additional_names": "Garden Burnet, Small Burnet, Burnet",
+    "latin_name": "Poterium sanguisorba",
+    "family": "Rosaceae",
+    "polish_name": "Krwiściąg mniejszy (Sałatkowy krwiściąg)"
+  },
+  {
+    "common_name": "Sand Lily",
+    "additional_names": "mountain lily, star lily",
+    "latin_name": "Leucocrinum montanum",
+    "family": "Liliaceae",
+    "polish_name": "Leukokrinum górskie (Lilia piaskowa)"
+  },
+  {
+    "common_name": "Sand Verbena",
+    "additional_names": "Fragrant sand-verbena, snowball sand-verbena, prairie snowball",
+    "latin_name": "Abronia fragrans",
+    "family": "Nyctaginaceae",
+    "polish_name": "Abronia wonna (Werbena piaskowa)"
+  },
+  {
+    "common_name": "Satin Pellionia",
+    "additional_names": "",
+    "latin_name": "Pellonia pulchra",
+    "family": "Urticaceae",
+    "polish_name": "Pellionia piękna (Satynowa pelionia)"
+  },
+  {
+    "common_name": "Savory (Summer)",
+    "additional_names": "",
+    "latin_name": "Satureja hortensis",
+    "family": "Lamiaceae",
+    "polish_name": "Cząber ogrodowy (Letni)"
+  },
+  {
+    "common_name": "Savory (Winter)",
+    "additional_names": "",
+    "latin_name": "Satureja hortensis",
+    "family": "Lamiaceae",
+    "polish_name": "Cząber ogrodowy (Zimowy)"
+  },
+  {
+    "common_name": "Sawbrier",
+    "additional_names": "Wild Sasparilla",
+    "latin_name": "Smilax glauca",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl sina (Dzikie sasanki)"
+  },
+  {
+    "common_name": "Scabious",
+    "additional_names": "Pincushion Flower",
+    "latin_name": "Leucospermum incisum",
+    "family": "Protaeceae",
+    "polish_name": "Driakiew (Kwiat poduszkowy)"
+  },
+  {
+    "common_name": "Scarborough Lily",
+    "additional_names": "",
+    "latin_name": "Vallota speciosa",
+    "family": "Amaryllidaceae",
+    "polish_name": "Walota piękna (Lilia Scarborough)"
+  },
+  {
+    "common_name": "Scarlet Orchid",
+    "additional_names": "Florida Butterfly Orchid",
+    "latin_name": "Epidendrum tampense",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum tampense (Szkarłatna orchidea)"
+  },
+  {
+    "common_name": "Scarlet Sage",
+    "additional_names": "Texas Sage",
+    "latin_name": "Salvia coccinea",
+    "family": "Labiatae",
+    "polish_name": "Szałwia błyszcząca (Szałwia szkarłatna)"
+  },
+  {
+    "common_name": "Sego Lily",
+    "additional_names": "Mariposa Lily",
+    "latin_name": "Calochortus gunnisonii",
+    "family": "Liliaceae",
+    "polish_name": "Kokoryczka Gunnisona (Lilia Sego)"
+  },
+  {
+    "common_name": "Shagbark Hickory",
+    "additional_names": "Big Shellbark Hickory, Shellbark Hickory, Big Shagbark Hickory",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy (Orzesznik kosmaty)"
+  },
+  {
+    "common_name": "Shan Ku'ei-lai",
+    "additional_names": "Cat Brier, China Root, Ti-hu-ling, Shiny Leaf Smilax",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Shellbark Hickory",
+    "additional_names": "Big Shellbark Hickory",
+    "latin_name": "Carya laciniosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik siedmiolistkowy (Orzesznik łuskowaty)"
+  },
+  {
+    "common_name": "Shrimp Cactus",
+    "additional_names": "",
+    "latin_name": "Schlumbergera russelliana",
+    "family": "Cactaceae",
+    "polish_name": "Schlumbergera Russella (Kaktus krewetkowy)"
+  },
+  {
+    "common_name": "Silver Bell",
+    "additional_names": "opossum wood, snowbell tree, shittimwood",
+    "latin_name": "Halesia carolina",
+    "family": "Styrnaceae",
+    "polish_name": "Ośnieża karolińska (Srebrny dzwonek)"
+  },
+  {
+    "common_name": "Silver Berry",
+    "additional_names": "Autumn Olive, Russian Olive",
+    "latin_name": "elaeagnus species",
+    "family": "Elaeagnaceae",
+    "polish_name": "Oliwnik (Srebrna jagoda)"
+  },
+  {
+    "common_name": "Silver Heart",
+    "additional_names": "",
+    "latin_name": "Peperomia caperata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia kędzierzawa (Srebrne serce)"
+  },
+  {
+    "common_name": "Silver Pink Vine",
+    "additional_names": "",
+    "latin_name": "Hoya publcalyx",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja pubicalyx (Srebrnoróżowa winorośl)"
+  },
+  {
+    "common_name": "Silver Star",
+    "additional_names": "Cape Marigold",
+    "latin_name": "Cryptanthus lacerdae",
+    "family": "Bromeliaceae",
+    "polish_name": "Kryptantus Lacery (Srebrna gwiazda)"
+  },
+  {
+    "common_name": "Silver Table Fern",
+    "additional_names": "",
+    "latin_name": "Pteris sp.",
+    "family": "Pteridaceae",
+    "polish_name": "Orliczka (Srebrna paproć stołowa)"
+  },
+  {
+    "common_name": "Silver Tree Anamiga",
+    "additional_names": "",
+    "latin_name": "NONE LISTED",
+    "family": "",
+    "polish_name": "Srebrne drzewo Anamiga"
+  },
+  {
+    "common_name": "Slender Deutzia",
+    "additional_names": "",
+    "latin_name": "Deutzia gracilis",
+    "family": "Saxifragaceae",
+    "polish_name": "Żylistek wysmukły"
+  },
+  {
+    "common_name": "Small Fruited Hickory",
+    "additional_names": "",
+    "latin_name": "Carya glabra",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik gładki (Drobnolistny orzesznik)"
+  },
+  {
+    "common_name": "Smilax Tamnoides Vas",
+    "additional_names": "Hellfetter, Hagbrier",
+    "latin_name": "Smilax hispida",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl szorstka"
+  },
+  {
+    "common_name": "Speckled Wood Lily",
+    "additional_names": "",
+    "latin_name": "Clintonia umbelluata",
+    "family": "Liliaceae",
+    "polish_name": "Klintonia baldaszkowata (Nakrapiana lilia leśna)"
+  },
+  {
+    "common_name": "Spice Orchid",
+    "additional_names": "",
+    "latin_name": "Epidendrum atropurpeum",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum ciemnopurpurowe (Orchidea korzenna)"
+  },
+  {
+    "common_name": "Spice Orchid",
+    "additional_names": "Fiery Reed Orchid",
+    "latin_name": "Epidendrum ibaguense",
+    "family": "Orchidaceae",
+    "polish_name": "Epidendrum Ibaguense (Orchidea korzenna)"
+  },
+  {
+    "common_name": "Spider Flower",
+    "additional_names": "",
+    "latin_name": "Cleome hasserlana",
+    "family": "Capparaceae",
+    "polish_name": "Kleome kolczaste (Kwiat pająka)"
+  },
+  {
+    "common_name": "Spider Ivy",
+    "additional_names": "Ribbon Plant, Anthericum, Spider Ivy",
+    "latin_name": "Chlorophytum comosum",
+    "family": "Liliaceae",
+    "polish_name": "Zielistka Sternberga (Pajęczy bluszcz)"
+  },
+  {
+    "common_name": "Spider Plant",
+    "additional_names": "Ribbon Plant, Anthericum, Spider Ivy",
+    "latin_name": "Chlorophytum comosum",
+    "family": "Asparagaceae",
+    "polish_name": "Zielistka Sternberga (Roślina pająk)"
+  },
+  {
+    "common_name": "Star Jasmine",
+    "additional_names": "",
+    "latin_name": "Trachelospermum jasminoides",
+    "family": "Apocynaceae",
+    "polish_name": "Jaśmin gwiazdkowy"
+  },
+  {
+    "common_name": "Star Lily",
+    "additional_names": "Mountain Lily, Sand Lily",
+    "latin_name": "Leucocrinum montanum",
+    "family": "Liliaceae",
+    "polish_name": "Leukokrinum górskie (Lilia gwiaździsta)"
+  },
+  {
+    "common_name": "Star Plant",
+    "additional_names": "Starfish Plant, Green Earth Star, Vary-Leaf Star, Pink Starlite",
+    "latin_name": "Cryptanthus bivattus minor",
+    "family": "Bromeliaceae",
+    "polish_name": "Kryptantus dwupaskowy mniejszy (Roślina gwiaździsta)"
+  },
+  {
+    "common_name": "Stevia",
+    "additional_names": "Sweetleaf, Sugar Leaf",
+    "latin_name": "Stevia rebaudiana",
+    "family": "Asteraceae",
+    "polish_name": "Stewia"
+  },
+  {
+    "common_name": "Strawberry",
+    "additional_names": "wild strawberry",
+    "latin_name": "Fragaria spp.",
+    "family": "Rosaceae",
+    "polish_name": "Truskawka"
+  },
+  {
+    "common_name": "Striped Blushing",
+    "additional_names": "Crimson Cup, Marbled Fingernail, Blushing Bromeliad, Neoregelia, Miniature Marble Plant, Aregelia",
+    "latin_name": "Neoregalia spp.",
+    "family": "Bromiliaceae",
+    "polish_name": "Neoregelia (Pasiasta rumieniąca się)"
+  },
+  {
+    "common_name": "Sudan Grass",
+    "additional_names": "Hybrid Sudan",
+    "latin_name": "Sorghum vulgare var sudanesis",
+    "family": "Gramineae",
+    "polish_name": "Sorgo sudańskie (Trawa sudańska)"
+  },
+  {
+    "common_name": "Sugar Pods",
+    "additional_names": "Carob Tree, Locust Pods, Kharoub, Beans",
+    "latin_name": "Ceratonia siliqua",
+    "family": "",
+    "polish_name": "Szarańczyn strąkowy (Słodkie strąki)"
+  },
+  {
+    "common_name": "Sulfur Flower",
+    "additional_names": "Umbrella Plant, Wild Buckweat",
+    "latin_name": "Eriogonium umbellatum",
+    "family": "Polygonaceae",
+    "polish_name": "Eriogonum baldaszkowe (Kwiat siarkowy)"
+  },
+  {
+    "common_name": "Summer Hyacinth",
+    "additional_names": "",
+    "latin_name": "Galtonia spp.",
+    "family": "Hyacinthaeae",
+    "polish_name": "Galtonia (Letni hiacynt)"
+  },
+  {
+    "common_name": "Sunflower",
+    "additional_names": "swamp sunflower",
+    "latin_name": "helianthus angustifolius",
+    "family": "Compositae",
+    "polish_name": "Słonecznik"
+  },
+  {
+    "common_name": "Swamp Sunflower",
+    "additional_names": "Sunflower",
+    "latin_name": "helianthus angustifolius",
+    "family": "Compositae",
+    "polish_name": "Słonecznik wąskolistny (Słonecznik bagienny)"
+  },
+  {
+    "common_name": "Swedish Ivy",
+    "additional_names": "Creeping Charlie",
+    "latin_name": "Plectranthus australis",
+    "family": "Pilea: Uriticaeae; Plectranthus: Lamiaceae",
+    "polish_name": "Plekrantus australijski (Szwedzki bluszcz)"
+  },
+  {
+    "common_name": "Sweet Pea",
+    "additional_names": "Perennial Pea, Everlasting Pea",
+    "latin_name": "Lathyrus latifolius",
+    "family": "Fabaceae",
+    "polish_name": "Groszek szerokolistny (Groszek pachnący)"
+  },
+  {
+    "common_name": "Sweet Potato Vine",
+    "additional_names": "Sweet potato",
+    "latin_name": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "polish_name": "Wilec ziemniaczany (Batat)"
+  },
+  {
+    "common_name": "Sweetheart Hoya",
+    "additional_names": "wax hearts, valentine hoya",
+    "latin_name": "Hoya kerrii",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja sercowata (Hoja serduszko)"
+  },
+  {
+    "common_name": "Sword Fern",
+    "additional_names": "Bold Sword Fern, Roosevelt Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć mieczowa)"
+  },
+  {
+    "common_name": "Tailed Orchid",
+    "additional_names": "",
+    "latin_name": "Masdevallia spp.",
+    "family": "Orchidaceae",
+    "polish_name": "Masdevallia (Orchidea ogoniasta)"
+  },
+  {
+    "common_name": "Tall Feather Fern",
+    "additional_names": "Bold Sword Fern, Sword Fern, Roosevelt Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Wysoka paproć piórkowa)"
+  },
+  {
+    "common_name": "Tall Mahonia",
+    "additional_names": "Oregon Grape, Oregon Grape Holly, Mahonia Aguifolium, Holly-Leaved Berry, Mahonia",
+    "latin_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "polish_name": "Mahonia pospolita (Wysoka mahonia)"
+  },
+  {
+    "common_name": "Tangerine Impatience",
+    "additional_names": "Giant Touch-Me-Not, Buzzy Lizzy, Patient Lucy, Patient Plant, Tangerine Impatience, Impatience Plant, Lady Slipper",
+    "latin_name": "Impatiens spp.",
+    "family": "Balsaminaceae",
+    "polish_name": "Niecierpek (Mandarynkowy niecierpek)"
+  },
+  {
+    "common_name": "Teasel Gourd",
+    "additional_names": "Hedgehog Gourd",
+    "latin_name": "Cucumis dipsaceus",
+    "family": "Cucurbitaceae",
+    "polish_name": "Ogórek jeżowy (Gurda szczotkowa)"
+  },
+  {
+    "common_name": "Texas Sage",
+    "additional_names": "Scarlet Sage",
+    "latin_name": "Salvia coccinea",
+    "family": "Labiatae",
+    "polish_name": "Szałwia teksańska"
+  },
+  {
+    "common_name": "Thea Japonica",
+    "additional_names": "Common Camellia, Peony Camellia",
+    "latin_name": "Camellia japonica",
+    "family": "Theaceae",
+    "polish_name": "Kamelia japońska"
+  },
+  {
+    "common_name": "Thimble Cactus",
+    "additional_names": "",
+    "latin_name": "Mammillaria fragilis",
+    "family": "Cactaceae",
+    "polish_name": "Mamilarka krucha (Kaktus naparstkowy)"
+  },
+  {
+    "common_name": "Thorn Apple",
+    "additional_names": "Weisdornbluten, Blackthorn, Black Hawthorn, Thorn Plum, Pirliteiro, Red Hawthorn, May Bush, Oxyacantha, Haw Apple, Black Haw, Aubepine",
+    "latin_name": "Crataegus douglasii",
+    "family": "Rosaceae",
+    "polish_name": "Głóg Douglasa (Cierniowe jabłko)"
+  },
+  {
+    "common_name": "Thyme",
+    "additional_names": "Common Thyme, Garden Thyme, German Thyme",
+    "latin_name": "Thymus vulgaris",
+    "family": "Lamiaceae",
+    "polish_name": "Macierzanka tymianek (Tymianek)"
+  },
+  {
+    "common_name": "Ti hu-ling",
+    "additional_names": "China Root, Ti-hu-ling, Shiny Leaf Smilax, Cat Brier, Kuang-yen-pa-hsieh",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Tickseed",
+    "additional_names": "coreopsis",
+    "latin_name": "Coreopsis californica",
+    "family": "Compositae",
+    "polish_name": "Nachyłek kalifornijski"
+  },
+  {
+    "common_name": "Tiger Orchid",
+    "additional_names": "Golden Lace Orchid, Jewel Orchid",
+    "latin_name": "Haemaria discolor",
+    "family": "Orchidaceae",
+    "polish_name": "Hemaria dwubarwna (Orchidea tygrysia)"
+  },
+  {
+    "common_name": "Toad Spotted Cactus",
+    "additional_names": "",
+    "latin_name": "Stapelia variegata",
+    "family": "Apocynaceae",
+    "polish_name": "Stapelia pstra (Kaktus plamisty)"
+  },
+  {
+    "common_name": "Torch Lily",
+    "additional_names": "red hot poker, poker plant",
+    "latin_name": "Kniphofia",
+    "family": "Asphodelaceae",
+    "polish_name": "Trytoma groniasta (Lilia pochodniowa)"
+  },
+  {
+    "common_name": "Tous-les-mois",
+    "additional_names": "Achira, Canna, Arrowroot",
+    "latin_name": "Canna edulis",
+    "family": "Cannaceae",
+    "polish_name": "Paciorecznik jadalny (Wszystkie miesiące)"
+  },
+  {
+    "common_name": "Trailing Peperomia",
+    "additional_names": "",
+    "latin_name": "Peperomia prostata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia płożąca"
+  },
+  {
+    "common_name": "Tree Cactus",
+    "additional_names": "",
+    "latin_name": "Opuntia species",
+    "family": "Cactaceae",
+    "polish_name": "Opuncja (Kaktus drzewiasty)"
+  },
+  {
+    "common_name": "Tree Gloxinia",
+    "additional_names": "",
+    "latin_name": "Kohleria lindeniana",
+    "family": "Gesneriaciae",
+    "polish_name": "Kohleria Lindeniana (Drzewiasta gloksynia)"
+  },
+  {
+    "common_name": "Tropical Moss",
+    "additional_names": "Cushion Moss, Irish Moss, Krauss' Spikemoss, Spreading Club Moss, Trailing Irish Moss",
+    "latin_name": "Selaginella kraussiana",
+    "family": "Selaginellaceae",
+    "polish_name": "Widliczka Kraussa (Mech tropikalny)"
+  },
+  {
+    "common_name": "True Cantaloupe",
+    "additional_names": "cantaloupe",
+    "latin_name": "Cucumis melo",
+    "family": "Cucurbitaceae",
+    "polish_name": "Kantalupa (Prawdziwy kantalup)"
+  },
+  {
+    "common_name": "Tu Fu-Ling",
+    "additional_names": "Cat Brier, China Root, Ti-hu-ling, Shiny Leaf Smilax",
+    "latin_name": "Smilax glabra",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl gładka"
+  },
+  {
+    "common_name": "Tulip Poplar",
+    "additional_names": "tulip tree",
+    "latin_name": "Liriodendron tulipifera",
+    "family": "Magnoliaceae",
+    "polish_name": "Tulipanowiec amerykański"
+  },
+  {
+    "common_name": "Turban Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbita maxima cv turbaniformis",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia turbanowa"
+  },
+  {
+    "common_name": "Turf Lily",
+    "additional_names": "lilyturf",
+    "latin_name": "Liriope muscari",
+    "family": "Asparagaceae",
+    "polish_name": "Liriope szafirkowate (Lilia darniowa)"
+  },
+  {
+    "common_name": "Umbrella Plant",
+    "additional_names": "Sulfur Flower, Wild Buckweat",
+    "latin_name": "Eriogonium umbellatum",
+    "family": "Polygonaceae",
+    "polish_name": "Eriogonum baldaszkowe (Roślina parasolowata)"
+  },
+  {
+    "common_name": "Urbinia Agavoides",
+    "additional_names": "Hens and Chickens, Mother Hens and Chicks, Chickens and Hens",
+    "latin_name": "Echeveria elegans",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria agawowata"
+  },
+  {
+    "common_name": "Usambara Violet",
+    "additional_names": "Kenya Violet",
+    "latin_name": "Santpaulia confusa",
+    "family": "Gesneraceae",
+    "polish_name": "Sępolia pomieszana (Fiołek usambarski)"
+  },
+  {
+    "common_name": "Variegated Wax Plant",
+    "additional_names": "",
+    "latin_name": "Echeveria sp.",
+    "family": "",
+    "polish_name": "Eszeweria (Pstra roślina woskowa)"
+  },
+  {
+    "common_name": "Velvet Plant",
+    "additional_names": "Velvet Plant, Royal Velvet Plant, Purple Velvet Plant, Purple Passion Vine",
+    "latin_name": "Gynura aurantica",
+    "family": "Asteraceae",
+    "polish_name": "Gynura pomarańczowa (Aksamitna roślina)"
+  },
+  {
+    "common_name": "Venus Fly Trap",
+    "additional_names": "",
+    "latin_name": "Dionaea muscipula",
+    "family": "Droseraceae",
+    "polish_name": "Muchołówka amerykańska (Pułapka na muchy Wenus)"
+  },
+  {
+    "common_name": "Verona Fern",
+    "additional_names": "Bold Sword Fern, Nephrolepis Biserrata, Verona Lace Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć Verona)"
+  },
+  {
+    "common_name": "Verona Lace Fern",
+    "additional_names": "Bold Sword Fern, Nephrolepis Biserrata, Verona Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Koronkowa paproć Verona)"
+  },
+  {
+    "common_name": "Vining Peperomia",
+    "additional_names": "",
+    "latin_name": "Peperomia serpens variegata",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia pnąca pstra"
+  },
+  {
+    "common_name": "Violet Slipper Gloxinia",
+    "additional_names": "Bright Eyes",
+    "latin_name": "Sinningia speciosa",
+    "family": "Gesneriaceae",
+    "polish_name": "Syningia okazała (Fioletowy pantofelek gloksynii)"
+  },
+  {
+    "common_name": "Waffle Plant",
+    "additional_names": "Purple Waffle Plant",
+    "latin_name": "Hemigraphis exotica",
+    "family": "Acanthaceae",
+    "polish_name": "Hemigraphis egzotyczny (Roślina gofrowa)"
+  },
+  {
+    "common_name": "Walking Anthericum",
+    "additional_names": "Ribbon Plant, Spider Plant, Spider Ivy",
+    "latin_name": "Chlorophytum comosum",
+    "family": "Liliaceae",
+    "polish_name": "Zielistka Sternberga (Chodząca pajęcznica)"
+  },
+  {
+    "common_name": "Washington Hawthorn",
+    "additional_names": "Haws, Pirliteiro, Red Hawthorn",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg waszyngtoński"
+  },
+  {
+    "common_name": "Water Hickory",
+    "additional_names": "",
+    "latin_name": "Carya aquatica",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik wodny"
+  },
+  {
+    "common_name": "Water Hyacinth",
+    "additional_names": "",
+    "latin_name": "Eichhornia crassipes",
+    "family": "Pontederiaceae",
+    "polish_name": "Eichornia gruboogonkowa (Hiacynt wodny)"
+  },
+  {
+    "common_name": "Watermelon Begonia",
+    "additional_names": "",
+    "latin_name": "Peperomia argyreia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia argyreia (Begonia arbuzowa)"
+  },
+  {
+    "common_name": "Watermelon Peperomia",
+    "additional_names": "Watermelon Begonia",
+    "latin_name": "Peperomia argyreia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia argyreia (Peperomia arbuzowa)"
+  },
+  {
+    "common_name": "Watermelon Pilea",
+    "additional_names": "Watermelon Plant, Aluminum Plant",
+    "latin_name": "Pilea cadieri",
+    "family": "Urticaceae",
+    "polish_name": "Pilea Cadiera (Pilea arbuzowa)"
+  },
+  {
+    "common_name": "Wax Plant",
+    "additional_names": "Hindu Rope Plant, Porcelain Flower",
+    "latin_name": "Hoya carnosa 'krinkle kurl'",
+    "family": "Asclepiadaceae",
+    "polish_name": "Hoja różowa 'Krinkle Kurl' (Roślina woskowa)"
+  },
+  {
+    "common_name": "Wax Rosette",
+    "additional_names": "Maroon Chenille Plant, Painted Lady, Copper Rose, Blue Echeveria, Plush Plant",
+    "latin_name": "Echeveria gilva",
+    "family": "Crassulaceae",
+    "polish_name": "Eszeweria siwa (Woskowa rozeta)"
+  },
+  {
+    "common_name": "Weeping Bottlebrush",
+    "additional_names": "Bottlebrush, Prickly Bottlebrush, Crimson Bottlebrush",
+    "latin_name": "Callistemon species",
+    "family": "Myrtaceae",
+    "polish_name": "Kuflik płaczący"
+  },
+  {
+    "common_name": "Weeping Sargent Hemlock",
+    "additional_names": "Many varieties",
+    "latin_name": "Tsuga species",
+    "family": "Pinaceae",
+    "polish_name": "Choina Sargenta płacząca"
+  },
+  {
+    "common_name": "Weisdornbluten",
+    "additional_names": "Haws, Pirliteiro, Red Hawthorn, Washington Hawthorn",
+    "latin_name": "Crataegus species",
+    "family": "Rosaceae",
+    "polish_name": "Głóg"
+  },
+  {
+    "common_name": "West Indian Gherkin",
+    "additional_names": "Goareberry Gourd, Gooseberry Gourd, Burr Gourd",
+    "latin_name": "Cucumis anguria",
+    "family": "Cucurbitaceae",
+    "polish_name": "Ogórek antylski (Korniszon zachodnioindyjski)"
+  },
+  {
+    "common_name": "Western Sword",
+    "additional_names": "Sword Fern, Giant Holly Fern, Imbricate Sword Fern",
+    "latin_name": "Ploystichum munitum",
+    "family": "Polypodaceae",
+    "polish_name": "Paprotnik kolczasty (Zachodni miecz)"
+  },
+  {
+    "common_name": "White Edged Swedish Ivy",
+    "additional_names": "Creeping Charlie, Swedish Ivy",
+    "latin_name": "Plectranthus australis",
+    "family": "Pilea: Uriticaeae; Plectranthus: Lamiaceae",
+    "polish_name": "Plekrantus australijski (Białoobrzeżony szwedzki bluszcz)"
+  },
+  {
+    "common_name": "White Ginger",
+    "additional_names": "Butterfly Ginger, Cinnamon Jasmine, Garland Flower, Ginger Lily",
+    "latin_name": "Hedychium coronarium",
+    "family": "",
+    "polish_name": "Hedychium wieńcowe (Biały imbir)"
+  },
+  {
+    "common_name": "White Heart Hickory",
+    "additional_names": "",
+    "latin_name": "Carya tomentosa",
+    "family": "Juglandaceae",
+    "polish_name": "Orzesznik omszony (Biały orzesznik)"
+  },
+  {
+    "common_name": "Whitman Fern",
+    "additional_names": "Bold Sword Fern, Nephrolepis Biserrata, Verona Fern, Verona Lace Fern",
+    "latin_name": "Nephrolepis biserrata",
+    "family": "Dryopteridaceae",
+    "polish_name": "Nefrolepis piłkowany (Paproć Whitmana)"
+  },
+  {
+    "common_name": "Wild Buckwheat",
+    "additional_names": "Sulfur Flower, Umbrella Plant",
+    "latin_name": "Eriogonium umbellatum",
+    "family": "Polygonaceae",
+    "polish_name": "Eriogonum baldaszkowe (Dzika gryka)"
+  },
+  {
+    "common_name": "Wild Hyacinth",
+    "additional_names": "Blue Dicks",
+    "latin_name": "Dichelostemma pulchellum",
+    "family": "Amaryllidaceae",
+    "polish_name": "Dichelostemma piękna (Dziki hiacynt)"
+  },
+  {
+    "common_name": "Wild Lantana",
+    "additional_names": "Sand Verbena, Prairie Snowball",
+    "latin_name": "Abronia fragrans",
+    "family": "Nyctaginaceae",
+    "polish_name": "Abronia wonna (Dzika lantana)"
+  },
+  {
+    "common_name": "Wild Sasparilla",
+    "additional_names": "Sawbrier",
+    "latin_name": "Smilax glauca",
+    "family": "Liliaceae",
+    "polish_name": "Kolcorośl sina (Dzika sarsaparyla)"
+  },
+  {
+    "common_name": "Wild Strawberry",
+    "additional_names": "Strawberry",
+    "latin_name": "Fragaria",
+    "family": "Rosaceae",
+    "polish_name": "Poziomka pospolita (Dzika truskawka)"
+  },
+  {
+    "common_name": "Willow Herb",
+    "additional_names": "Blooming Sally, Fire Weed",
+    "latin_name": "Epilobium angustifolium",
+    "family": "Onagraceae",
+    "polish_name": "Wierzbownica kiprzyca (Ziele wierzbowe)"
+  },
+  {
+    "common_name": "Windmill Palm",
+    "additional_names": "Chusan Palm",
+    "latin_name": "Trachycarpus fortunei",
+    "family": "Palmea",
+    "polish_name": "Szorstkowiec Fortunego (Palma wiatrakowa)"
+  },
+  {
+    "common_name": "Winter Cattleya",
+    "additional_names": "Christmas Orchid",
+    "latin_name": "Cattleya trianaei",
+    "family": "Orchidaceae",
+    "polish_name": "Katleja Triany (Zimowa katleja)"
+  },
+  {
+    "common_name": "Withered Snapdragon",
+    "additional_names": "",
+    "latin_name": "Anthirrhinum multiflorum",
+    "family": "Schrophulariaceae",
+    "polish_name": "Wyżlin wielokwiatowy (Zwiędnięta lwia paszcza)"
+  },
+  {
+    "common_name": "Woolflower",
+    "additional_names": "",
+    "latin_name": "Celosia cristata",
+    "family": "Amaranthaceae",
+    "polish_name": "Celozja grzebieniasta (Wełniany kwiat)"
+  },
+  {
+    "common_name": "Yellow Bloodleaf",
+    "additional_names": "Chicken Gizzard, Bloodleaf, Joseph's Coat",
+    "latin_name": "Iresine herbstii",
+    "family": "Amaranthaceae",
+    "polish_name": "Iresine Herbsta (Żółta krwawnica)"
+  },
+  {
+    "common_name": "Yellow Palm",
+    "additional_names": "Golden Butterfly Palm, Cane Palm, Golden Feather Palm, Yellow Palm",
+    "latin_name": "Dypsis lutescens",
+    "family": "Palmae",
+    "polish_name": "Palma Areka (Złotowiec)"
+  },
+  {
+    "common_name": "Yellow-Flowered Gourd",
+    "additional_names": "",
+    "latin_name": "Cucurbita species",
+    "family": "Cucurbitaceae",
+    "polish_name": "Dynia żółtokwiatowa"
+  },
+  {
+    "common_name": "Yellowrocket",
+    "additional_names": "",
+    "latin_name": "Barbarea vulgaris",
+    "family": "Brassicaceae",
+    "polish_name": "Gorczycznik pospolity (Żółta rakieta)"
+  },
+  {
+    "common_name": "Yorba Linda",
+    "additional_names": "",
+    "latin_name": "Peperomia rotundifolia",
+    "family": "Piperaceae",
+    "polish_name": "Peperomia okrągłolistna (Yorba Linda)"
+  },
+  {
+    "common_name": "Zebra Haworthia",
+    "additional_names": "",
+    "latin_name": "Haworthia fasciata",
+    "family": "Liliaceae",
+    "polish_name": "Haworsja pręgowana (Zebra)"
+  },
+  {
+    "common_name": "Zinnia",
+    "additional_names": "",
+    "latin_name": "Zinnia species",
+    "family": "Asteraceae",
+    "polish_name": "Cynia"
+  },
+  {
+    "common_name": "Zucchini Squash",
+    "additional_names": "",
+    "latin_name": "Cucurbia pepo cv zucchini",
+    "family": "Cucurbitaceae",
+    "polish_name": "Cukinia"
+  }
+]
