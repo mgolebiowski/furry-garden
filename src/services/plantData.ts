@@ -48,8 +48,6 @@ export async function initPlantData(): Promise<void> {
   plantSearchEngine = new Fuse(allPlants, fuseOptions);
 }
 
-import Fuse from 'fuse.js';
-
 // Search plants by query
 export function searchPlants(query: string): Fuse.FuseResult<Plant>[] {
   if (!plantSearchEngine || !query.trim()) {

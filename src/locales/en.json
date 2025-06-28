@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Cat Safe Garden",
-    "subtitle": "Safe & Toxic Plants for Cats"
+    "subtitle": "Safe & Toxic Plants for Cats",
+    "loading": "Loading..."
   },
   "ui": {
     "search": "Search plants...",
@@ -26,9 +27,5 @@
     "safe": "SAFE",
     "toxic": "TOXIC",
     "noResults": "No plants found matching your search."
-  },
-  "app": {
-    "title": "Cat Safe Garden",
-    "subtitle": "Safe & Toxic Plants for Cats",
-    "loading": "Loading..."
   }
+}
