@@ -42,21 +42,12 @@
     }
   });
 
-  // Function to update filtered plants based on search and filter
-  function updateFilteredPlants() {
-    const searchResults = searchQuery.trim() 
-      ? searchPlants(searchQuery) 
-      : allPlants;
-    
-    filteredPlants = activeFilter === 'all' 
-      ? searchResults 
-      : filterPlantsBySafety(searchResults, activeFilter === 'safe');
-  }
-
   // Watch for changes to search query and filter
-  $: if (!isLoading && (searchQuery || activeFilter)) {
-    updateFilteredPlants();
-  }
+  $: filteredPlants = (() => {
+    if (isLoading) return [];
+    const searchResults = searchQuery.trim() ? searchPlants(searchQuery) : allPlants;
+    return activeFilter === 'all' ? searchResults : filterPlantsBySafety(searchResults, activeFilter === 'safe');
+  })();
 
   // Handle search input changes
   function handleSearch(event: CustomEvent<string>) {
