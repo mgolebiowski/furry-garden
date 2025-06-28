@@ -3,15 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preload" href="/src/main.ts" as="script" crossorigin>
+    <link rel="preload" href="/src/data/safe.json" as="fetch" crossorigin>
+    <link rel="preload" href="/src/data/toxic.json" as="fetch" crossorigin>
     <script>
       (function() {
+        // Pre-load theme before any rendering to prevent CLS
         const savedTheme = localStorage.getItem('theme');
+        let themeToApply;
+        
         if (savedTheme === 'dark' || savedTheme === 'light') {
-          document.documentElement.classList.add(savedTheme);
+          themeToApply = savedTheme;
         } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          document.documentElement.classList.add('dark');
+          themeToApply = 'dark';
+        } else {
+          themeToApply = 'light';
         }
+        
+        document.documentElement.classList.add(themeToApply);
+        // Also set it on the body to prevent any flash
+        document.documentElement.style.colorScheme = themeToApply;
       })();
     </script>
     <title>FurryGarden</title>

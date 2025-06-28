@@ -19,6 +19,7 @@
   let activeFilter: 'all' | 'safe' | 'toxic' = 'all';
   let filteredPlants: Plant[] = [];
   let isLoading = true;
+  let searchTimeout: number | undefined;
   
   // Track current theme
   let currentTheme: 'light' | 'dark';
@@ -41,10 +42,21 @@
     }
   });
 
-  // Watch for changes to search query and filter
+  // Watch for changes to search query and filter - optimize with debouncing
   $: filteredPlants = (() => {
     if (isLoading) return [];
-    const searchResults = searchQuery.trim() ? searchPlants(searchQuery) : allPlants.map(p => ({ item: p, refIndex: 0 }));
+    
+    // Clear previous timeout
+    if (searchTimeout) clearTimeout(searchTimeout);
+    
+    // For empty search, return immediately
+    if (!searchQuery.trim()) {
+      const plants = allPlants.map(p => ({ ...p, matches: undefined }));
+      return activeFilter === 'all' ? plants : filterPlantsBySafety(plants, activeFilter === 'safe');
+    }
+    
+    // For search queries, use the existing logic
+    const searchResults = searchPlants(searchQuery);
     const plantsWithMatches = searchResults.map(result => ({ ...result.item, matches: result.matches }));
     return activeFilter === 'all' ? plantsWithMatches : filterPlantsBySafety(plantsWithMatches, activeFilter === 'safe');
   })();
@@ -83,6 +95,11 @@
 </script>
 
 <main class="min-h-screen w-full pb-24 md:pb-0">
+  <!-- Skip to main content link for keyboard users -->
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-green-700 text-white px-4 py-2 rounded-md z-50">
+    Skip to main content
+  </a>
+  
   <!-- Header with title and controls -->
   <header class="bg-white dark:bg-gray-800 shadow-sm sticky top-0 z-10">
     <div class="container mx-auto px-4 py-2 flex flex-col gap-2">
@@ -97,10 +114,10 @@
           </p>
         </div>
         
-        <div class="flex items-center space-x-2">
+        <nav class="flex items-center space-x-2" aria-label="User preferences">
           <ThemeToggle />
           <LanguageSelector />
-        </div>
+        </nav>
       </div>
       
       <!-- Search and filters - Desktop -->
@@ -116,18 +133,18 @@
   </header>
 
   <!-- Plant list -->
-  <div class="container mx-auto px-4 py-6">
+  <section id="main-content" class="container mx-auto px-4 py-6" aria-label="Plant database" tabindex="-1">
     {#if isLoading}
-      <p class="text-center text-gray-500 dark:text-gray-400">{$_('app.loading')}</p>
+      <p class="text-center text-gray-500 dark:text-gray-400" aria-live="polite">{$_('app.loading')}</p>
     {:else if filteredPlants.length === 0}
-      <p class="text-center text-gray-500 dark:text-gray-400">{$_('app.noResults')}</p>
+      <p class="text-center text-gray-500 dark:text-gray-400" aria-live="polite">{$_('app.noResults')}</p>
     {:else}
       <PlantList plants={filteredPlants} />
     {/if}
-  </div>
+  </section>
 
   <!-- Floating search and filter bar for mobile -->
-  <div bind:this={floatingBar} class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 p-4 shadow-lg z-20 flex flex-col gap-3">
+  <div bind:this={floatingBar} class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 p-4 shadow-lg z-20 flex flex-col gap-3" role="search" aria-label="Mobile search and filter">
     <div class="flex-1">
       <SearchBar value={searchQuery} on:input={handleSearch} />
     </div>

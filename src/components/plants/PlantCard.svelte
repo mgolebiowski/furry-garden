@@ -12,26 +12,26 @@
     : '';
 </script>
 
-<div class="max-w-full bg-white border rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+<div class="max-w-full bg-white border rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 overflow-hidden" role="article" aria-labelledby="plant-name-{plant.latinName}">
   <div class="p-4">
     <div class="flex items-center justify-between mb-2 min-h-[28px]">
-      <h3 class="text-xl font-bold text-gray-900 dark:text-white min-h-[28px]">
+      <h2 id="plant-name-{plant.latinName}" class="text-xl font-bold text-gray-900 dark:text-white min-h-[28px]">
         {#if $locale === 'pl-PL' && plant.polishName}
           {#if plant.matches && plant.matches.find(m => m.key === 'polishName')}
-            <HighlightedText text={plant.polishName} indices={plant.matches.find(m => m.key === 'polishName').indices} />
+            <HighlightedText text={plant.polishName} indices={plant.matches.find(m => m.key === 'polishName')?.indices || []} />
           {:else}
             {plant.polishName}
           {/if}
         {:else if plant.commonName}
           {#if plant.matches && plant.matches.find(m => m.key === 'commonName')}
-            <HighlightedText text={plant.commonName} indices={plant.matches.find(m => m.key === 'commonName').indices} />
+            <HighlightedText text={plant.commonName} indices={plant.matches.find(m => m.key === 'commonName')?.indices || []} />
           {:else}
             {plant.commonName}
           {/if}
         {:else}
           &nbsp; <!-- Non-breaking space to maintain height -->
         {/if}
-      </h3>
+      </h2>
       
       <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium {plant.isSafe 
         ? 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300' 
@@ -44,7 +44,7 @@
       <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 min-h-[20px]">
         <span class="font-medium">{$_('plant.additionalNames')}: </span>
         {#if plant.matches && plant.matches.find(m => m.key === 'additionalNames')}
-          <HighlightedText text={additionalNames} indices={plant.matches.find(m => m.key === 'additionalNames').indices} />
+          <HighlightedText text={additionalNames} indices={plant.matches.find(m => m.key === 'additionalNames')?.indices || []} />
         {:else}
           {additionalNames}
         {/if}
@@ -56,7 +56,7 @@
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">
       <span class="font-medium not-italic">{$_('plant.latinName')}: </span>
       {#if plant.matches && plant.matches.find(m => m.key === 'latinName')}
-        <HighlightedText text={plant.latinName} indices={plant.matches.find(m => m.key === 'latinName').indices} />
+        <HighlightedText text={plant.latinName} indices={plant.matches.find(m => m.key === 'latinName')?.indices || []} />
       {:else}
         {plant.latinName}
       {/if}

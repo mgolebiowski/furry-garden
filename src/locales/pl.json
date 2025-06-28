@@ -9,7 +9,8 @@
     "filter": {
       "all": "Wszystkie Rośliny",
       "safe": "Bezpieczne dla Kotów",
-      "toxic": "Toksyczne dla Kotów"
+      "toxic": "Toksyczne dla Kotów",
+      "group": "Filtruj rośliny według bezpieczeństwa"
     },
     "darkMode": "Tryb Ciemny",
     "lightMode": "Tryb Jasny",
