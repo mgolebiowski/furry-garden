@@ -1,7 +1,8 @@
 {
   "app": {
-    "title": "💐 💕 🐾",
-    "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów"
+    "title": "Koci Ogród",
+    "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów",
+    "loading": "Ładowanie..."
   },
   "ui": {
     "search": "Szukaj roślin...",
@@ -26,9 +27,5 @@
     "safe": "BEZPIECZNA",
     "toxic": "TOKSYCZNA",
     "noResults": "Nie znaleziono roślin pasujących do wyszukiwania."
-  },
-  "app": {
-    "title": "💐 💕 🐾",
-    "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów",
-    "loading": "Ładowanie..."
   }
+}
