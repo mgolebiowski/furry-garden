@@ -7,8 +7,22 @@ import toxicJson from '../data/toxic.json';
 async function loadData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   try {
     return {
-      safe: safeJson.map(p => ({ ...p, isSafe: true })),
-      toxic: toxicJson.map(p => ({ ...p, isSafe: false }))
+      safe: safeJson.map(p => ({
+        commonName: p.common_name,
+        additionalNames: p.additional_names ? p.additional_names.split(',').map(name => name.trim()) : [],
+        latinName: p.latin_name,
+        family: p.family,
+        polishName: p.polish_name,
+        isSafe: true
+      })),
+      toxic: toxicJson.map(p => ({
+        commonName: p.common_name,
+        additionalNames: p.additional_names ? p.additional_names.split(',').map(name => name.trim()) : [],
+        latinName: p.latin_name,
+        family: p.family,
+        polishName: p.polish_name,
+        isSafe: false
+      }))
     };
   } catch (error) {
     console.error('Error loading data:', error);
