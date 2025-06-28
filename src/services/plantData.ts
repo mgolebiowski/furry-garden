@@ -32,7 +32,7 @@ export async function initPlantData(): Promise<void> {
   allPlants = [...safePlants, ...toxicPlants];
   
   // Configure Fuse.js for fuzzy search
-  const fuseOptions = {
+  const fuseOptions: Fuse.IFuseOptions<Plant> = {
     keys: [
       'commonName',
       'additionalNames',
@@ -41,18 +41,21 @@ export async function initPlantData(): Promise<void> {
     ],
     threshold: 0.3,
     ignoreLocation: true,
+    includeMatches: true,
   };
   
   // Create a Fuse instance for fuzzy search
   plantSearchEngine = new Fuse(allPlants, fuseOptions);
 }
 
+import Fuse from 'fuse.js';
+
 // Search plants by query
-export function searchPlants(query: string): Plant[] {
+export function searchPlants(query: string): Fuse.FuseResult<Plant>[] {
   if (!plantSearchEngine || !query.trim()) {
-    return allPlants;
+    return allPlants.map(p => ({ item: p, refIndex: 0 }));
   }
-  return plantSearchEngine.search(query).map(result => result.item);
+  return plantSearchEngine.search(query);
 }
 
 // Filter plants by safety

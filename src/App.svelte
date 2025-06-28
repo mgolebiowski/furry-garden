@@ -45,8 +45,9 @@
   // Watch for changes to search query and filter
   $: filteredPlants = (() => {
     if (isLoading) return [];
-    const searchResults = searchQuery.trim() ? searchPlants(searchQuery) : allPlants;
-    return activeFilter === 'all' ? searchResults : filterPlantsBySafety(searchResults, activeFilter === 'safe');
+    const searchResults = searchQuery.trim() ? searchPlants(searchQuery) : allPlants.map(p => ({ item: p, refIndex: 0 }));
+    const plantsWithMatches = searchResults.map(result => ({ ...result.item, matches: result.matches }));
+    return activeFilter === 'all' ? plantsWithMatches : filterPlantsBySafety(plantsWithMatches, activeFilter === 'safe');
   })();
 
   // Handle search input changes

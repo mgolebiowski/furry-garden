@@ -1,3 +1,5 @@
+import type { FuseResult } from 'fuse.js';
+
 export interface Plant {
   commonName: string;
   additionalNames: string[];
@@ -5,4 +7,5 @@ export interface Plant {
   family: string;
   polishName: string;
   isSafe: boolean;
+  matches?: readonly FuseResult<Plant>['matches'];
 }

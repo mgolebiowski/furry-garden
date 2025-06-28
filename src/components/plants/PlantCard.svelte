@@ -2,6 +2,7 @@
   import type { Plant } from '../../types/plant';
   import { _ } from 'svelte-i18n';
   import { locale } from 'svelte-i18n';
+  import HighlightedText from '../ui/HighlightedText.svelte';
 
   export let plant: Plant;
   
@@ -16,9 +17,17 @@
     <div class="flex items-center justify-between mb-2">
       <h3 class="text-xl font-bold text-gray-900 dark:text-white">
         {#if $locale === 'pl-PL' && plant.polishName}
-          {plant.polishName}
+          {#if plant.matches && plant.matches.find(m => m.key === 'polishName')}
+            <HighlightedText text={plant.polishName} indices={plant.matches.find(m => m.key === 'polishName').indices} />
+          {:else}
+            {plant.polishName}
+          {/if}
         {:else}
-          {plant.commonName}
+          {#if plant.matches && plant.matches.find(m => m.key === 'commonName')}
+            <HighlightedText text={plant.commonName} indices={plant.matches.find(m => m.key === 'commonName').indices} />
+          {:else}
+            {plant.commonName}
+          {/if}
         {/if}
         
       </h3>
@@ -33,13 +42,21 @@
     {#if additionalNames}
       <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">
         <span class="font-medium">{$_('plant.additionalNames')}: </span>
-        {additionalNames}
+        {#if plant.matches && plant.matches.find(m => m.key === 'additionalNames')}
+          <HighlightedText text={additionalNames} indices={plant.matches.find(m => m.key === 'additionalNames').indices} />
+        {:else}
+          {additionalNames}
+        {/if}
       </p>
     {/if}
     
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">
       <span class="font-medium not-italic">{$_('plant.latinName')}: </span>
-      {plant.latinName}
+      {#if plant.matches && plant.matches.find(m => m.key === 'latinName')}
+        <HighlightedText text={plant.latinName} indices={plant.matches.find(m => m.key === 'latinName').indices} />
+      {:else}
+        {plant.latinName}
+      {/if}
     </p>
     
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">
