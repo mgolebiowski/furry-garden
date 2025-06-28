@@ -6,7 +6,7 @@
 <button
   on:click={toggleTheme}
   class="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700"
-  aria-label={$_(($theme === 'dark' ? 'theme.light' : 'theme.dark'))}
+  aria-label="Toggle Theme"
 >
   {#if $theme === 'dark'}
     <span>☀️</span>
