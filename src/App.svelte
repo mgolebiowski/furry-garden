@@ -4,6 +4,7 @@
   import { initI18n } from './i18n';
   import { theme } from './stores/theme';
   import LanguageSelector from './components/ui/LanguageSelector.svelte';
+  import ThemeToggle from './components/ui/ThemeToggle.svelte';
   import SearchBar from './components/ui/SearchBar.svelte';
   import FilterTabs from './components/ui/FilterTabs.svelte';
   import PlantList from './components/plants/PlantList.svelte';
@@ -106,6 +107,7 @@
         </div>
         
         <div class="flex items-center space-x-2">
+          <ThemeToggle />
           <LanguageSelector />
         </div>
       </div>

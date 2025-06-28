@@ -12,7 +12,11 @@
     },
     "darkMode": "Tryb Ciemny",
     "lightMode": "Tryb Jasny",
-    "language": "Język"
+    "language": "Język",
+    "theme": {
+      "light": "Aktywuj Tryb Jasny",
+      "dark": "Aktywuj Tryb Ciemny"
+    }
   },
   "plant": {
     "commonName": "Nazwa Zwyczajowa",
@@ -22,5 +26,9 @@
     "safe": "BEZPIECZNA",
     "toxic": "TOKSYCZNA",
     "noResults": "Nie znaleziono roślin pasujących do wyszukiwania."
+  },
+  "app": {
+    "title": "💐 💕 🐾",
+    "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów",
+    "loading": "Ładowanie..."
   }
-}

@@ -12,7 +12,11 @@
     },
     "darkMode": "Dark Mode",
     "lightMode": "Light Mode",
-    "language": "Language"
+    "language": "Language",
+    "theme": {
+      "light": "Activate Light Mode",
+      "dark": "Activate Dark Mode"
+    }
   },
   "plant": {
     "commonName": "Common Name",
@@ -22,5 +26,9 @@
     "safe": "SAFE",
     "toxic": "TOXIC",
     "noResults": "No plants found matching your search."
+  },
+  "app": {
+    "title": "Cat Safe Garden",
+    "subtitle": "Safe & Toxic Plants for Cats",
+    "loading": "Loading..."
   }
-}
