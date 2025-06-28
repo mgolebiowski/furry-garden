@@ -14,8 +14,8 @@
 
 <div class="max-w-full bg-white border rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
   <div class="p-4">
-    <div class="flex items-center justify-between mb-2">
-      <h3 class="text-xl font-bold text-gray-900 dark:text-white">
+    <div class="flex items-center justify-between mb-2 min-h-[28px]">
+      <h3 class="text-xl font-bold text-gray-900 dark:text-white min-h-[28px]">
         {#if $locale === 'pl-PL' && plant.polishName}
           {#if plant.matches && plant.matches.find(m => m.key === 'polishName')}
             <HighlightedText text={plant.polishName} indices={plant.matches.find(m => m.key === 'polishName').indices} />
@@ -29,8 +29,7 @@
             {plant.commonName}
           {/if}
         {:else}
-          <!-- Fallback if both commonName and polishName are empty -->
-          No Name Available
+          &nbsp; <!-- Non-breaking space to maintain height -->
         {/if}
       </h3>
       
@@ -42,7 +41,7 @@
     </div>
     
     {#if additionalNames}
-      <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">
+      <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 min-h-[20px]">
         <span class="font-medium">{$_('plant.additionalNames')}: </span>
         {#if plant.matches && plant.matches.find(m => m.key === 'additionalNames')}
           <HighlightedText text={additionalNames} indices={plant.matches.find(m => m.key === 'additionalNames').indices} />
@@ -50,6 +49,8 @@
           {additionalNames}
         {/if}
       </p>
+    {:else}
+      <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 min-h-[20px]">&nbsp;</p>
     {/if}
     
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">
