@@ -22,14 +22,16 @@
           {:else}
             {plant.polishName}
           {/if}
-        {:else}
+        {:else if plant.commonName}
           {#if plant.matches && plant.matches.find(m => m.key === 'commonName')}
             <HighlightedText text={plant.commonName} indices={plant.matches.find(m => m.key === 'commonName').indices} />
           {:else}
             {plant.commonName}
           {/if}
+        {:else}
+          <!-- Fallback if both commonName and polishName are empty -->
+          No Name Available
         {/if}
-        
       </h3>
       
       <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium {plant.isSafe 

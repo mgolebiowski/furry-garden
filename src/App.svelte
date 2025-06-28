@@ -26,7 +26,6 @@
   // Initialize data when component mounts
   onMount(async () => {
     await initPlantData();
-    updateFilteredPlants();
     isLoading = false;
   });
   
