@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { onMount } from 'svelte';
   import type { Plant } from '../../types/plant';
   import { _ } from 'svelte-i18n';
   import { locale } from 'svelte-i18n';
@@ -7,6 +8,12 @@
   export let plant: Plant;
   
   let expanded = false;
+
+  onMount(() => {
+    if (window.matchMedia('(min-width: 768px)').matches) {
+      expanded = true;
+    }
+  });
 
   // Format additional names for display
   $: additionalNames = plant.additionalNames && plant.additionalNames.length
