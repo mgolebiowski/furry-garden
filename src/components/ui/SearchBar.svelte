@@ -23,7 +23,7 @@
   </div>
   <input
     type="search"
-    class="w-full p-3 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-green-500 focus:border-green-500 dark:bg-gray-800 dark:border-gray-600 dark:text-white dark:focus:ring-green-600 dark:focus:border-green-600 text-base"
+    class="w-full p-3 pl-10 text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-green-500 focus:border-green-500 dark:bg-gray-800 dark:border-gray-600 dark:text-white dark:focus:ring-green-600 dark:focus:border-green-600 text-base"
     placeholder={$_('ui.search')}
     aria-label={$_('ui.search')}
     {value}
