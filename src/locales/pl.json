@@ -27,6 +27,7 @@
     "family": "Rodzina",
     "safe": "BEZPIECZNA",
     "toxic": "TOKSYCZNA",
-    "noResults": "Nie znaleziono roślin pasujących do wyszukiwania."
+    "noResults": "Nie znaleziono roślin pasujących do wyszukiwania.",
+    "viewOnAspca": "Zobacz na stronie ASPCA"
   }
 }

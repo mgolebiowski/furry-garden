@@ -78,6 +78,13 @@
         <span class="font-medium">{$_('plant.family')}: </span>
         {plant.family}
       </p>
+      {#if plant.link}
+        <p class="text-sm text-gray-600 dark:text-gray-400">
+          <a href={plant.link} target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline dark:text-blue-400">
+            {$_('plant.viewOnAspca')}
+          </a>
+        </p>
+      {/if}
     </div>
   {/if}
 </div>

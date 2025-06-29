@@ -27,6 +27,7 @@
     "family": "Family",
     "safe": "SAFE",
     "toxic": "TOXIC",
-    "noResults": "No plants found matching your search."
+    "noResults": "No plants found matching your search.",
+    "viewOnAspca": "View on ASPCA website"
   }
 }

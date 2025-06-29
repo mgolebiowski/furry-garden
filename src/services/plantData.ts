@@ -7,6 +7,21 @@ import toxicJson from '../data/toxic.json';
 let dataCache: {safe: Plant[], toxic: Plant[]} | null = null;
 let loadingPromise: Promise<{safe: Plant[], toxic: Plant[]}> | null = null;
 
+// Helper function to safely map plant data
+function mapPlantData(data: any[], isSafe: boolean): Plant[] {
+  return data.map(p => ({
+    commonName: p.common_name || '',
+    link: p.link || '',
+    additionalNames: p.additional_names 
+      ? p.additional_names.split(',').map((name: string) => name.trim()).filter(Boolean)
+      : [],
+    latinName: p.latin_name || '',
+    family: p.family || '',
+    polishName: p.polish_name || '',
+    isSafe
+  })).filter(plant => plant.commonName || plant.latinName); // Filter out invalid entries
+}
+
 // Load CSV data as text (we'll use fetch since direct imports are causing issues)
 async function loadData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   // Return cached data if available
@@ -22,22 +37,8 @@ async function loadData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   loadingPromise = (async () => {
     try {
       const result = {
-        safe: safeJson.map(p => ({
-          commonName: p.common_name,
-          additionalNames: p.additional_names ? p.additional_names.split(',').map(name => name.trim()) : [],
-          latinName: p.latin_name,
-          family: p.family,
-          polishName: p.polish_name,
-          isSafe: true
-        })),
-        toxic: toxicJson.map(p => ({
-          commonName: p.common_name,
-          additionalNames: p.additional_names ? p.additional_names.split(',').map(name => name.trim()) : [],
-          latinName: p.latin_name,
-          family: p.family,
-          polishName: p.polish_name,
-          isSafe: false
-        }))
+        safe: mapPlantData(safeJson, true),
+        toxic: mapPlantData(toxicJson, false)
       };
       
       // Cache the result
@@ -56,13 +57,27 @@ async function loadData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   return loadingPromise;
 }
 
-
-
 // Create empty initial states
 export let safePlants: Plant[] = [];
 export let toxicPlants: Plant[] = [];
 export let allPlants: Plant[] = [];
 export let plantSearchEngine: Fuse<Plant>;
+
+// Configure Fuse.js options
+const fuseOptions: IFuseOptions<Plant> = {
+  keys: [
+    'commonName',
+    'additionalNames',
+    'latinName',
+    'polishName'
+  ],
+  threshold: 0.3,
+  ignoreLocation: true,
+  includeMatches: true,
+};
+
+// Initialize with empty data first
+plantSearchEngine = new Fuse([], fuseOptions);
 
 // Initialize plant data
 export async function initPlantData(): Promise<void> {
@@ -71,27 +86,14 @@ export async function initPlantData(): Promise<void> {
   toxicPlants = toxic;
   allPlants = [...safePlants, ...toxicPlants];
   
-  // Configure Fuse.js for fuzzy search
-  const fuseOptions: IFuseOptions<Plant> = {
-    keys: [
-      'commonName',
-      'additionalNames',
-      'latinName',
-      'polishName'
-    ],
-    threshold: 0.3,
-    ignoreLocation: true,
-    includeMatches: true,
-  };
-  
-  // Create a Fuse instance for fuzzy search
+  // Update the search engine with loaded data
   plantSearchEngine = new Fuse(allPlants, fuseOptions);
 }
 
 // Search plants by query
 export function searchPlants(query: string): FuseResult<Plant>[] {
-  if (!plantSearchEngine || !query.trim()) {
-    return allPlants.map(p => ({ item: p, refIndex: 0 }));
+  if (!query.trim()) {
+    return allPlants.map((item, refIndex) => ({ item, refIndex }));
   }
   return plantSearchEngine.search(query);
 }
