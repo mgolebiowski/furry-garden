@@ -1,17 +1,12 @@
 <script lang="ts">
-  import { createEventDispatcher } from 'svelte';
   import { _ } from 'svelte-i18n';
 
-  export let value = '';
-  
-  const dispatch = createEventDispatcher<{
-    input: string;
-  }>();
-  
+  let { value = '', oninput } = $props();
+
   function handleInput(event: Event) {
     const target = event.target as HTMLInputElement;
     value = target.value;
-    dispatch('input', value);
+    oninput?.({ detail: value });
   }
 </script>
 
@@ -27,6 +22,6 @@
     placeholder={$_('ui.search')}
     aria-label={$_('ui.search')}
     {value}
-    on:input={handleInput}
+    oninput={handleInput}
   />
 </div>

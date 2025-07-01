@@ -63,13 +63,13 @@
   })();
 
   // Handle search input changes
-  function handleSearch(event: CustomEvent<string>) {
-    searchQuery = event.detail;
+  function handleSearch({ detail }: { detail: string }) {
+    searchQuery = detail;
   }
 
   // Handle filter changes
-  let handleFilterChange = (event: CustomEvent<'all' | 'safe' | 'toxic'>) => {
-    activeFilter = event.detail;
+  let handleFilterChange = ({ detail }: { detail: 'all' | 'safe' | 'toxic' }) => {
+    activeFilter = detail;
   };
 
   // New: reference to the floating bar for keyboard adjustments
@@ -124,10 +124,10 @@
       <!-- Search and filters - Desktop -->
       <div class="hidden md:flex flex-col md:flex-row gap-4">
         <div class="flex-1">
-          <SearchBar value={searchQuery} on:input={handleSearch} />
+          <SearchBar value={searchQuery} oninput={handleSearch} />
         </div>
         <div class="flex justify-start md:justify-end">
-          <FilterTabs activeFilter={activeFilter} on:change={handleFilterChange} />
+          <FilterTabs activeFilter={activeFilter} onchange={handleFilterChange} />
         </div>
       </div>
     </div>
@@ -148,13 +148,14 @@
   <div bind:this={floatingBar} class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 p-4 shadow-lg z-20 flex flex-col gap-3" role="search" aria-label="Mobile search and filter">
     <div class="flex gap-2">
       <div class="flex-1">
-        <SearchBar value={searchQuery} on:input={handleSearch} />
+        <SearchBar value={searchQuery} oninput={handleSearch} />
       </div>
       <button 
-        on:click={() => showFilters = !showFilters} 
+        onclick={() => showFilters = !showFilters} 
         class="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white"
         aria-expanded={showFilters}
         aria-controls="mobile-filter-tabs"
+        aria-label="Toggle filter tabs"
       >
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4h18M3 8h18M3 12h18M3 16h18"></path>
@@ -163,7 +164,7 @@
     </div>
     {#if showFilters}
       <div id="mobile-filter-tabs" class="flex justify-center">
-        <FilterTabs activeFilter={activeFilter} on:change={handleFilterChange} />
+        <FilterTabs activeFilter={activeFilter} onchange={handleFilterChange} />
       </div>
     {/if}
   </div>
