@@ -10,6 +10,7 @@
   import PlantList from './components/plants/PlantList.svelte';
   import { allPlants, searchPlants, filterPlantsBySafety, initPlantData } from './services/plantData';
   import type { Plant } from './types/plant';
+  import logo from '../public/logo.svg';
 
   // Initialize i18n
   initI18n();
@@ -106,13 +107,18 @@
     <div class="container mx-auto px-4 py-2 flex flex-col gap-2">
       <!-- Top row with title and theme/language controls -->
       <div class="flex flex-wrap items-center justify-between">
-        <div>
-          <h1 class="text-xl md:text-2xl font-bold text-green-600 dark:text-green-400">
-            {$_('app.title')}
-          </h1>
-          <p class="hidden md:block text-sm text-gray-600 dark:text-gray-300">
-            {$_('app.subtitle')}
-          </p>
+        <div class="flex items-center gap-2">
+          <!-- Logo Icon -->
+          <img src={logo} alt="App Logo" class="h-8 w-8" />
+          
+          <div>
+            <h1 class="text-xl md:text-2xl font-bold" style="color: rgb(244, 182, 136);">
+              {$_('app.title')}
+            </h1>
+            <p class="hidden md:block text-sm text-gray-600 dark:text-gray-300">
+              {$_('app.subtitle')}
+            </p>
+          </div>
         </div>
         
         <nav class="flex items-center space-x-2" aria-label="User preferences">
