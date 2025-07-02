@@ -22,7 +22,6 @@ function mapPlantData(data: any[], isSafe: boolean): Plant[] {
   })).filter(plant => plant.commonName || plant.latinName); // Filter out invalid entries
 }
 
-// Load CSV data as text (we'll use fetch since direct imports are causing issues)
 async function loadData(): Promise<{safe: Plant[], toxic: Plant[]}> {
   // Return cached data if available
   if (dataCache) {
