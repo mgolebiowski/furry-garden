@@ -2,7 +2,8 @@
   "app": {
     "title": "Koci Ogród",
     "subtitle": "Rośliny Bezpieczne i Toksyczne dla Kotów",
-    "loading": "Ładowanie..."
+    "loading": "Ładowanie...",
+    "noResults": "Nie znaleziono roślin pasujących do wyszukiwania."
   },
   "ui": {
     "search": "Szukaj roślin...",
@@ -29,5 +30,11 @@
     "toxic": "TOKSYCZNA",
     "noResults": "Nie znaleziono roślin pasujących do wyszukiwania.",
     "viewOnAspca": "Zobacz na stronie ASPCA"
+  },
+  "disclaimer": {
+    "title": "Ważne Zastrzeżenie",
+    "content": "Ta strona internetowa używa wiarygodnych danych z ASPCA (American Society for the Prevention of Cruelty to Animals). Jednak nadal możliwe są błędy lub Twój pupil może mieć indywidualne alergie. Polskie tłumaczenia nazw roślin są generowane przy użyciu uczenia maszynowego i mogą zawierać błędy. Jeśli nie jesteś pewien danej rośliny, skontaktuj się z weterynarzem. Jeśli znajdziesz jakieś błędy, utwórz issue na GitHubie:",
+    "githubLink": "https://github.com/mgolebiowski/furry-garden/issues",
+    "understood": "Rozumiem"
   }
 }

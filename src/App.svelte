@@ -8,6 +8,7 @@
   import SearchBar from './components/ui/SearchBar.svelte';
   import FilterTabs from './components/ui/FilterTabs.svelte';
   import PlantList from './components/plants/PlantList.svelte';
+  import DisclaimerModal from './components/ui/DisclaimerModal.svelte';
   import { allPlants, searchPlants, filterPlantsBySafety, initPlantData } from './services/plantData';
   import type { Plant } from './types/plant';
   import logo from '../public/logo.svg';
@@ -23,6 +24,9 @@
   let isLoading = true;
   let searchTimeout: number | undefined;
   
+  // Disclaimer modal state
+  let showDisclaimer = false;
+  
   // Track current theme
   let currentTheme: 'light' | 'dark';
 
@@ -30,6 +34,14 @@
   onMount(async () => {
     await initPlantData();
     isLoading = false;
+    
+    // Check if disclaimer has been shown before
+    if (typeof localStorage !== 'undefined') {
+      const disclaimerShown = localStorage.getItem('furry-garden-disclaimer-shown');
+      if (!disclaimerShown) {
+        showDisclaimer = true;
+      }
+    }
   });
   
   // Subscribe to theme changes
@@ -72,6 +84,35 @@
   let handleFilterChange = ({ detail }: { detail: 'all' | 'safe' | 'toxic' }) => {
     activeFilter = detail;
   };
+
+  // Handle disclaimer modal events
+  function handleDisclaimerUnderstood() {
+    showDisclaimer = false;
+    if (typeof localStorage !== 'undefined') {
+      localStorage.setItem('furry-garden-disclaimer-shown', 'true');
+    }
+    // Remove modal-open class from body
+    if (typeof document !== 'undefined') {
+      document.body.classList.remove('modal-open');
+    }
+  }
+
+  function handleDisclaimerClose() {
+    showDisclaimer = false;
+    // Remove modal-open class from body
+    if (typeof document !== 'undefined') {
+      document.body.classList.remove('modal-open');
+    }
+  }
+
+  // Add modal-open class to body when disclaimer is shown
+  $: if (typeof document !== 'undefined') {
+    if (showDisclaimer) {
+      document.body.classList.add('modal-open');
+    } else {
+      document.body.classList.remove('modal-open');
+    }
+  }
 
   // New: reference to the floating bar for keyboard adjustments
   let floatingBar: HTMLDivElement;
@@ -174,4 +215,11 @@
       </div>
     {/if}
   </div>
+
+  <!-- Disclaimer Modal -->
+  <DisclaimerModal 
+    isOpen={showDisclaimer} 
+    on:understood={handleDisclaimerUnderstood}
+    on:close={handleDisclaimerClose}
+  />
 </main>

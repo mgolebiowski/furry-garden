@@ -2,7 +2,8 @@
   "app": {
     "title": "Cat Safe Garden",
     "subtitle": "Safe & Toxic Plants for Cats",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "noResults": "No plants found matching your search."
   },
   "ui": {
     "search": "Search plants...",
@@ -29,5 +30,11 @@
     "toxic": "TOXIC",
     "noResults": "No plants found matching your search.",
     "viewOnAspca": "View on ASPCA website"
+  },
+  "disclaimer": {
+    "title": "Important Disclaimer",
+    "content": "This website uses credible data from the ASPCA (American Society for the Prevention of Cruelty to Animals). However, it is still possible that there might be errors or your pet could have individual allergies. Polish translations of plant names are generated using machine learning and may contain mistakes. If you are unsure about a plant's safety, please contact your veterinarian. If you find any errors, please create a ticket on GitHub:",
+    "githubLink": "https://github.com/mgolebiowski/furry-garden/issues",
+    "understood": "I Understand"
   }
 }
